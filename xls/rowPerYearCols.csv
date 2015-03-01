@@ -1,0 +1,8 @@
+year, na, tons_nitrogen, tons_phosphate, tons_potash, tons_total, na, percent_nitrogen, percent_phosphate, percent_potash
+year, na, nitrogen_corn, nitrogen_cotton, nitrogen_soybeans, nitrogen_wheat, nitrogen_other, phosphate_corn, phosphate_cotton, phosphate_soybeans, phosphate_wheat, phosphate_other, potash_corn, potash_cotton, potash_soybeans, potash_wheat, potash_other
+year, na, tons_multiple_nutrient, tons_single_nutrient, tons_secondary_nutrient, tons_total, na, percent_multiple_nutrient, percent_single_nutrient, percent_secondary_nutrient
+year, tons_ammonia_anhydrous, tons_ammonia_aqua, na, tons_ammonium_nitrate, tons_ammonium_sulfate, tons_nitrogen_solns, tons_sodium_nitrate, tons_urea, tons_nitrogen_other
+year, na, tons_superphosphates_u22, tons_superphosphates_o22, tons_superphosphates_other, na, tons_diammonium_phosphate, tons_monoammonium_phosphate, tons_other_nitrogen_phosphate, na, tons_potassium_chloride, tons_potash_other
+year, na, tons_gypsum, tons_sulfur, tons_sulfuric, tons_zinc, na, tons_compost, tons_manure, tons_sewage, tons_other_organic
+year, month, na, cost_anhydrous_ammonia, cost_nitrogen_solns, cost_urea, cost_ammonium_nitrate, cost_ammonium_sulfate, cost_superphosphate_20, cost_superphosphate_44, cost_diammonium_phosphate, cost_potassium_chloride
+year, na, farmer_paid, farmer_received, na, price_all_fertilizer, price_nitrogen, price_phosphate, price_potash
