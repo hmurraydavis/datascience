@@ -12,10 +12,13 @@ import pandas.io.excel as io
 import pandas as p
 
 
-def usageExample():
-	pass
+# look through the df's column names for a certain search
+def grep(search, df):
+	for val in df.columns.values:
+		if search in val:
+			print val
 
-
+# Known issues: Table 4 (multiple entries per year...sum?)
 def readJoin(bookname='fertilizeruse.xls'):
 	dfs = readDict(bookname)
 	keys = dfs.keys()
@@ -24,13 +27,18 @@ def readJoin(bookname='fertilizeruse.xls'):
 
 	while len(keys) > 0:
 		key = keys.pop()
-		df = dfs[key]
-		dfj = dfj.join(df, on='year', rsuffix='_r')
+		if key in 'Table4 Table7':
+			df = dfs[key]
+			dfj = df.join(dfj, on='year', rsuffix='_r')
+			#if key == 'Table7':
+			#	print dfj.ure_dol
+
+	#print dfj.ure_dol
 
 	# drop extra columns from join
-	for val in dfj.columns.values:
-		if '_r' in val:
-			dfj.drop(val, axis=1, inplace=True)
+	#for val in dfj.columns.values:
+	#	if '_r' in val:
+	#		dfj.drop(val, axis=1, inplace=True)
 
 	return dfj
 
@@ -69,6 +77,8 @@ def readDict(bookname='fertilizeruse.xls'):
 			df = rowPerState(bookname, sheet.name, prefixes_rowperstate[i-8][0], state_abbrevs)
 
 		dfs[sheet.name] = df
+		#if sheet.name == 'Table7':
+		#	print df.ure_dol
 
 	return dfs
 
@@ -92,6 +102,7 @@ def rowPerYear(bookname, sheetname, newnames):
 	# perform rename, drop rows w/ empty year, & return
 	df.rename(columns=renameMap, inplace=True)
 	df.dropna(inplace=True)
+	df.index = df.year
 	return df
 
 
