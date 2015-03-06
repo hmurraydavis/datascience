@@ -6,6 +6,10 @@ fertilizer_crop_unit_region
 
 ...where fertilizer, crop, unit, and region are chosen from the following lists.
 
+Here's an example:
+
+anh_all_ton_us refers to the number of tons (ton) of anhydrous ammonia (anh) applied to all crops (all) in the United States (us) per year.
+
 ##fertilizer
 - all: all fertilizers
 - nit: nitrogen (N)
