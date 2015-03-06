@@ -50,19 +50,19 @@ def readDict(bookname='fertilizeruse.xls'):
 	book = xlrd.open_workbook(bookname)
 
 	# ...read Table 1-8 newnames from csv
-	newnames_rowperyear_csvreader = csv.reader(open('rowPerYearCols.csv', 'rb'))
+	newnames_rowperyear_csvreader = csv.reader(open('codebook/rowPerYearCols.csv', 'rb'))
 	newnames_rowperyear = []
 	for row in newnames_rowperyear_csvreader:
 		newnames_rowperyear.append(row)
 
 	# ...read Table 9-end prefixes from csv
-	prefixes_rowperstate_csvreader = csv.reader(open('rowPerStatePrefixes.csv', 'rb'))
+	prefixes_rowperstate_csvreader = csv.reader(open('codebook/rowPerStatePrefixes.csv', 'rb'))
 	prefixes_rowperstate = []
 	for prefix in prefixes_rowperstate_csvreader:
 		prefixes_rowperstate.append(prefix)
 
 	# ...read state abbreviations from csv
-	state_abbrevs_csvreader = csv.reader(open('states.csv'))
+	state_abbrevs_csvreader = csv.reader(open('codebook/states.csv', 'rb'))
 	state_abbrevs = {}
 	for abbrev in state_abbrevs_csvreader:
 		state_abbrevs[abbrev[0]] = abbrev[1].lower()
