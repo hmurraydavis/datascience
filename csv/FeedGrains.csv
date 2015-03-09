@@ -1,0 +1,908 @@
+SC_Group_ID,SC_Group_Desc,SC_GroupCommod_ID,SC_GroupCommod_Desc,SC_Geography_ID,SortOrder,SC_GeographyIndented_Desc,SC_Commodity_ID,SC_Commodity_Desc,SC_Attribute_ID,SC_Attribute_Desc,SC_Unit_ID,SC_Unit_Desc,Year_ID,SC_Frequency_ID,SC_Frequency_Desc,Timeperiod_ID,Timeperiod_Desc,Amount
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1926,3,"Annual",69,"Commodity Market Year",8.796
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1927,3,"Annual",69,"Commodity Market Year",9.513
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1928,3,"Annual",69,"Commodity Market Year",12.828
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1929,3,"Annual",69,"Commodity Market Year",14.703
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1930,3,"Annual",69,"Commodity Market Year",13.581
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1931,3,"Annual",69,"Commodity Market Year",13.82
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1932,3,"Annual",69,"Commodity Market Year",14.555
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1933,3,"Annual",69,"Commodity Market Year",14.2
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1934,3,"Annual",69,"Commodity Market Year",12.024
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1935,3,"Annual",69,"Commodity Market Year",13.956
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1936,3,"Annual",69,"Commodity Market Year",12.837
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1937,3,"Annual",69,"Commodity Market Year",12.346
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1938,3,"Annual",69,"Commodity Market Year",12.171
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1939,3,"Annual",69,"Commodity Market Year",15.513
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1940,3,"Annual",69,"Commodity Market Year",15.689
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1941,3,"Annual",69,"Commodity Market Year",15.857
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1942,3,"Annual",69,"Commodity Market Year",19.686
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1943,3,"Annual",69,"Commodity Market Year",17.474
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1944,3,"Annual",69,"Commodity Market Year",14.352
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1945,3,"Annual",69,"Commodity Market Year",11.745
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1946,3,"Annual",69,"Commodity Market Year",11.467
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1947,3,"Annual",69,"Commodity Market Year",11.981
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1948,3,"Annual",69,"Commodity Market Year",13.063
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1949,3,"Annual",69,"Commodity Market Year",11.132
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1950,3,"Annual",69,"Commodity Market Year",13.01
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1951,3,"Annual",69,"Commodity Market Year",10.79
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1952,3,"Annual",69,"Commodity Market Year",9.19
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1953,3,"Annual",69,"Commodity Market Year",9.615
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1954,3,"Annual",69,"Commodity Market Year",14.74
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1955,3,"Annual",69,"Commodity Market Year",16.293
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1956,3,"Annual",69,"Commodity Market Year",14.732
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1957,3,"Annual",69,"Commodity Market Year",16.398
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1958,3,"Annual",69,"Commodity Market Year",16.15
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1959,3,"Annual",69,"Commodity Market Year",16.766
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1960,3,"Annual",69,"Commodity Market Year",15.527
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1961,3,"Annual",69,"Commodity Market Year",15.623
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1962,3,"Annual",69,"Commodity Market Year",14.38
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1963,3,"Annual",69,"Commodity Market Year",13.452
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1964,3,"Annual",69,"Commodity Market Year",11.652
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1965,3,"Annual",69,"Commodity Market Year",10.123
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1966,3,"Annual",69,"Commodity Market Year",11.184
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1967,3,"Annual",69,"Commodity Market Year",10.077
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1968,3,"Annual",69,"Commodity Market Year",10.486
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1969,3,"Annual",69,"Commodity Market Year",10.291
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1970,3,"Annual",69,"Commodity Market Year",10.476
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1971,3,"Annual",69,"Commodity Market Year",11.061
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1972,3,"Annual",69,"Commodity Market Year",10.567
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1973,3,"Annual",69,"Commodity Market Year",11.045
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1974,3,"Annual",69,"Commodity Market Year",8.713
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1975,3,"Annual",69,"Commodity Market Year",9.373
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1976,3,"Annual",69,"Commodity Market Year",9.301
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1977,3,"Annual",69,"Commodity Market Year",10.778
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1978,3,"Annual",69,"Commodity Market Year",9.989
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1979,3,"Annual",69,"Commodity Market Year",8.116
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1980,3,"Annual",69,"Commodity Market Year",8.32
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1981,3,"Annual",69,"Commodity Market Year",9.618
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1982,3,"Annual",69,"Commodity Market Year",9.549
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1983,3,"Annual",69,"Commodity Market Year",10.411
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1984,3,"Annual",69,"Commodity Market Year",11.934
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1985,3,"Annual",69,"Commodity Market Year",13.139
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1986,3,"Annual",69,"Commodity Market Year",13.024
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1987,3,"Annual",69,"Commodity Market Year",10.929
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1988,3,"Annual",69,"Commodity Market Year",9.831
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1989,3,"Annual",69,"Commodity Market Year",9.125
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1990,3,"Annual",69,"Commodity Market Year",8.221
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1991,3,"Annual",69,"Commodity Market Year",8.941
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1992,3,"Annual",69,"Commodity Market Year",7.762
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1993,3,"Annual",69,"Commodity Market Year",7.786
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1994,3,"Annual",69,"Commodity Market Year",7.159
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1995,3,"Annual",69,"Commodity Market Year",6.689
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1996,3,"Annual",69,"Commodity Market Year",7.094
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1997,3,"Annual",69,"Commodity Market Year",6.706
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1998,3,"Annual",69,"Commodity Market Year",6.325
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",1999,3,"Annual",69,"Commodity Market Year",4.983
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",2000,3,"Annual",69,"Commodity Market Year",5.801
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",2001,3,"Annual",69,"Commodity Market Year",4.951
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",2002,3,"Annual",69,"Commodity Market Year",5.008
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",2003,3,"Annual",69,"Commodity Market Year",5.348
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",2004,3,"Annual",69,"Commodity Market Year",4.527
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",2005,3,"Annual",69,"Commodity Market Year",3.875
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",2006,3,"Annual",69,"Commodity Market Year",3.452
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",2007,3,"Annual",69,"Commodity Market Year",4.018
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",2008,3,"Annual",69,"Commodity Market Year",4.239
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",2009,3,"Annual",69,"Commodity Market Year",3.568
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",2010,3,"Annual",69,"Commodity Market Year",2.872
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",2011,3,"Annual",69,"Commodity Market Year",2.564
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",2012,3,"Annual",69,"Commodity Market Year",3.66
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",2013,3,"Annual",69,"Commodity Market Year",3.528
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1975,2,"Quarterly",24,"Q1 Sep-Nov",0.24
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1975,2,"Quarterly",25,"Q2 Dec-Feb",0.597
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1975,2,"Quarterly",26,"Q3 Mar-May",0.205
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1975,2,"Quarterly",27,"Q4 Jun-Aug",0.455
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1975,3,"Annual",31,"MY Sep-Aug",1.497
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1976,2,"Quarterly",24,"Q1 Sep-Nov",0.486
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1976,2,"Quarterly",25,"Q2 Dec-Feb",0.394
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1976,2,"Quarterly",26,"Q3 Mar-May",0.533
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1976,2,"Quarterly",27,"Q4 Jun-Aug",1.018
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1976,3,"Annual",31,"MY Sep-Aug",2.431
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1977,2,"Quarterly",24,"Q1 Sep-Nov",0.641
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1977,2,"Quarterly",25,"Q2 Dec-Feb",0.656
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1977,2,"Quarterly",26,"Q3 Mar-May",0.527
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1977,2,"Quarterly",27,"Q4 Jun-Aug",0.574
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1977,3,"Annual",31,"MY Sep-Aug",2.398
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1978,2,"Quarterly",24,"Q1 Sep-Nov",0.135
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1978,2,"Quarterly",25,"Q2 Dec-Feb",0.304
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1978,2,"Quarterly",26,"Q3 Mar-May",0.296
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1978,2,"Quarterly",27,"Q4 Jun-Aug",0.417
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1978,3,"Annual",31,"MY Sep-Aug",1.152
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1979,2,"Quarterly",24,"Q1 Sep-Nov",0.215
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1979,2,"Quarterly",25,"Q2 Dec-Feb",0.166
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1979,2,"Quarterly",26,"Q3 Mar-May",0.2
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1979,2,"Quarterly",27,"Q4 Jun-Aug",0.14
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1979,3,"Annual",31,"MY Sep-Aug",0.721
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1980,2,"Quarterly",24,"Q1 Sep-Nov",0.292
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1980,2,"Quarterly",25,"Q2 Dec-Feb",0.003
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1980,2,"Quarterly",26,"Q3 Mar-May",0.046
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1980,2,"Quarterly",27,"Q4 Jun-Aug",0.507
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1980,3,"Annual",31,"MY Sep-Aug",0.848
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1981,2,"Quarterly",24,"Q1 Sep-Nov",0.11
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1981,2,"Quarterly",25,"Q2 Dec-Feb",0.159
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1981,2,"Quarterly",26,"Q3 Mar-May",0.04
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1981,2,"Quarterly",27,"Q4 Jun-Aug",0.247
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1981,3,"Annual",31,"MY Sep-Aug",0.556
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1982,2,"Quarterly",24,"Q1 Sep-Nov",0.248
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1982,2,"Quarterly",25,"Q2 Dec-Feb",0.059
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1982,2,"Quarterly",26,"Q3 Mar-May",0.086
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1982,2,"Quarterly",27,"Q4 Jun-Aug",0.096
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1982,3,"Annual",31,"MY Sep-Aug",0.489
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1983,2,"Quarterly",24,"Q1 Sep-Nov",0.398
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1983,2,"Quarterly",25,"Q2 Dec-Feb",0.312
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1983,2,"Quarterly",26,"Q3 Mar-May",0.487
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1983,2,"Quarterly",27,"Q4 Jun-Aug",0.511
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1983,3,"Annual",31,"MY Sep-Aug",1.708
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1984,2,"Quarterly",24,"Q1 Sep-Nov",0.723
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1984,2,"Quarterly",25,"Q2 Dec-Feb",0.083
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1984,2,"Quarterly",26,"Q3 Mar-May",0.849
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1984,2,"Quarterly",27,"Q4 Jun-Aug",0.078
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1984,3,"Annual",31,"MY Sep-Aug",1.733
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1985,2,"Quarterly",24,"Q1 Sep-Nov",0.863
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1985,2,"Quarterly",25,"Q2 Dec-Feb",0.953
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1985,2,"Quarterly",26,"Q3 Mar-May",2.205
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1985,2,"Quarterly",27,"Q4 Jun-Aug",5.877
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1985,3,"Annual",31,"MY Sep-Aug",9.898
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1986,2,"Quarterly",24,"Q1 Sep-Nov",0.711
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1986,2,"Quarterly",25,"Q2 Dec-Feb",0.167
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1986,2,"Quarterly",26,"Q3 Mar-May",0.449
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1986,2,"Quarterly",27,"Q4 Jun-Aug",0.43
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1986,3,"Annual",31,"MY Sep-Aug",1.757
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1987,2,"Quarterly",24,"Q1 Sep-Nov",0.562
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1987,2,"Quarterly",25,"Q2 Dec-Feb",0.705
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1987,2,"Quarterly",26,"Q3 Mar-May",1.37
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1987,2,"Quarterly",27,"Q4 Jun-Aug",0.774
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1987,3,"Annual",31,"MY Sep-Aug",3.411
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1988,2,"Quarterly",24,"Q1 Sep-Nov",0.626
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1988,2,"Quarterly",25,"Q2 Dec-Feb",0.591
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1988,2,"Quarterly",26,"Q3 Mar-May",1.215
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1988,2,"Quarterly",27,"Q4 Jun-Aug",0.35
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1988,3,"Annual",31,"MY Sep-Aug",2.782
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1989,2,"Quarterly",24,"Q1 Sep-Nov",0.642
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1989,2,"Quarterly",25,"Q2 Dec-Feb",0.439
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1989,2,"Quarterly",26,"Q3 Mar-May",0.619
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1989,2,"Quarterly",27,"Q4 Jun-Aug",0.202
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1989,3,"Annual",31,"MY Sep-Aug",1.902
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1990,2,"Quarterly",24,"Q1 Sep-Nov",0.885
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1990,2,"Quarterly",25,"Q2 Dec-Feb",0.275
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1990,2,"Quarterly",26,"Q3 Mar-May",0.783
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1990,2,"Quarterly",27,"Q4 Jun-Aug",1.472
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1990,3,"Annual",31,"MY Sep-Aug",3.415
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1991,2,"Quarterly",24,"Q1 Sep-Nov",6.481
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1991,2,"Quarterly",25,"Q2 Dec-Feb",4.405
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1991,2,"Quarterly",26,"Q3 Mar-May",5.404
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1991,2,"Quarterly",27,"Q4 Jun-Aug",3.347
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1991,3,"Annual",31,"MY Sep-Aug",19.637
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1992,2,"Quarterly",24,"Q1 Sep-Nov",1.258
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1992,2,"Quarterly",25,"Q2 Dec-Feb",1.039
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1992,2,"Quarterly",26,"Q3 Mar-May",1.999
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",1,"Planted acreage",2,"Million acres",2014,3,"Annual",69,"Commodity Market Year",2.975
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1866,3,"Annual",69,"Commodity Market Year",24
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1867,3,"Annual",69,"Commodity Market Year",22.5
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1868,3,"Annual",69,"Commodity Market Year",21.8
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1869,3,"Annual",69,"Commodity Market Year",23.5
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1870,3,"Annual",69,"Commodity Market Year",21.8
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1871,3,"Annual",69,"Commodity Market Year",20.5
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1872,3,"Annual",69,"Commodity Market Year",22.5
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1873,3,"Annual",69,"Commodity Market Year",20.7
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1874,3,"Annual",69,"Commodity Market Year",22.2
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1875,3,"Annual",69,"Commodity Market Year",19.3
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1876,3,"Annual",69,"Commodity Market Year",20.6
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1877,3,"Annual",69,"Commodity Market Year",20
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1878,3,"Annual",69,"Commodity Market Year",20.3
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1879,3,"Annual",69,"Commodity Market Year",22
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1880,3,"Annual",69,"Commodity Market Year",22.7
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1881,3,"Annual",69,"Commodity Market Year",22.3
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1882,3,"Annual",69,"Commodity Market Year",24.7
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1883,3,"Annual",69,"Commodity Market Year",23.1
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1884,3,"Annual",69,"Commodity Market Year",25.2
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1885,3,"Annual",69,"Commodity Market Year",22.3
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1886,3,"Annual",69,"Commodity Market Year",24.3
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1887,3,"Annual",69,"Commodity Market Year",22.2
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1888,3,"Annual",69,"Commodity Market Year",23.1
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1889,3,"Annual",69,"Commodity Market Year",24.1
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1890,3,"Annual",69,"Commodity Market Year",21.5
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1891,3,"Annual",69,"Commodity Market Year",26.2
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1892,3,"Annual",69,"Commodity Market Year",24.7
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1893,3,"Annual",69,"Commodity Market Year",23.6
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1894,3,"Annual",69,"Commodity Market Year",20.4
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1895,3,"Annual",69,"Commodity Market Year",25
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1896,3,"Annual",69,"Commodity Market Year",23.6
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1897,3,"Annual",69,"Commodity Market Year",24.9
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1898,3,"Annual",69,"Commodity Market Year",23.9
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1899,3,"Annual",69,"Commodity Market Year",26.4
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1900,3,"Annual",69,"Commodity Market Year",20.5
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1901,3,"Annual",69,"Commodity Market Year",24.9
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1902,3,"Annual",69,"Commodity Market Year",26.7
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1903,3,"Annual",69,"Commodity Market Year",24
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1904,3,"Annual",69,"Commodity Market Year",25.2
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1905,3,"Annual",69,"Commodity Market Year",25.8
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1906,3,"Annual",69,"Commodity Market Year",26.6
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1907,3,"Annual",69,"Commodity Market Year",22
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1908,3,"Annual",69,"Commodity Market Year",23.1
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1909,3,"Annual",69,"Commodity Market Year",22.5
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1910,3,"Annual",69,"Commodity Market Year",18.9
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1911,3,"Annual",69,"Commodity Market Year",19.1
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1912,3,"Annual",69,"Commodity Market Year",26.1
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1913,3,"Annual",69,"Commodity Market Year",20.7
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1914,3,"Annual",69,"Commodity Market Year",23.2
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1915,3,"Annual",69,"Commodity Market Year",28.4
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1916,3,"Annual",69,"Commodity Market Year",20.9
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1917,3,"Annual",69,"Commodity Market Year",21.6
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1918,3,"Annual",69,"Commodity Market Year",24.5
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1919,3,"Annual",69,"Commodity Market Year",19.9
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1920,3,"Annual",69,"Commodity Market Year",23
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1921,3,"Annual",69,"Commodity Market Year",18.8
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1922,3,"Annual",69,"Commodity Market Year",23.2
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1923,3,"Annual",69,"Commodity Market Year",22.2
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1924,3,"Annual",69,"Commodity Market Year",23.5
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1925,3,"Annual",69,"Commodity Market Year",23.5
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1926,3,"Annual",69,"Commodity Market Year",21
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1927,3,"Annual",69,"Commodity Market Year",25.3
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1928,3,"Annual",69,"Commodity Market Year",25.8
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1929,3,"Annual",69,"Commodity Market Year",20.7
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1930,3,"Annual",69,"Commodity Market Year",23.9
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1931,3,"Annual",69,"Commodity Market Year",17.9
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1932,3,"Annual",69,"Commodity Market Year",22.7
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1933,3,"Annual",69,"Commodity Market Year",15.9
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1934,3,"Annual",69,"Commodity Market Year",17.8
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1935,3,"Annual",69,"Commodity Market Year",23.2
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1936,3,"Annual",69,"Commodity Market Year",17.7
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1937,3,"Annual",69,"Commodity Market Year",22.3
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1938,3,"Annual",69,"Commodity Market Year",24.2
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1939,3,"Annual",69,"Commodity Market Year",21.8
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1940,3,"Annual",69,"Commodity Market Year",23
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1941,3,"Annual",69,"Commodity Market Year",25.4
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1942,3,"Annual",69,"Commodity Market Year",25.3
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1943,3,"Annual",69,"Commodity Market Year",21.7
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1944,3,"Annual",69,"Commodity Market Year",22.5
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1945,3,"Annual",69,"Commodity Market Year",25.5
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1946,3,"Annual",69,"Commodity Market Year",25.5
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1947,3,"Annual",69,"Commodity Market Year",25.7
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1948,3,"Annual",69,"Commodity Market Year",26.5
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1949,3,"Annual",69,"Commodity Market Year",24
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1950,3,"Annual",69,"Commodity Market Year",27.2
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1951,3,"Annual",69,"Commodity Market Year",27.3
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1952,3,"Annual",69,"Commodity Market Year",27.7
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1992,2,"Quarterly",27,"Q4 Jun-Aug",2.795
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1992,3,"Annual",31,"MY Sep-Aug",7.091
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1993,2,"Quarterly",24,"Q1 Sep-Nov",5.209
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1993,2,"Quarterly",25,"Q2 Dec-Feb",7.954
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1993,2,"Quarterly",26,"Q3 Mar-May",6.274
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1993,2,"Quarterly",27,"Q4 Jun-Aug",1.378
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1993,3,"Annual",31,"MY Sep-Aug",20.815
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1994,2,"Quarterly",24,"Q1 Sep-Nov",2.06
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1994,2,"Quarterly",25,"Q2 Dec-Feb",3.739
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1994,2,"Quarterly",26,"Q3 Mar-May",3.003
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1994,2,"Quarterly",27,"Q4 Jun-Aug",0.755
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1994,3,"Annual",31,"MY Sep-Aug",9.557
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1995,2,"Quarterly",24,"Q1 Sep-Nov",3.648
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1995,2,"Quarterly",25,"Q2 Dec-Feb",4.962
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1995,2,"Quarterly",26,"Q3 Mar-May",5.022
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1995,2,"Quarterly",27,"Q4 Jun-Aug",2.855
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1995,3,"Annual",31,"MY Sep-Aug",16.487
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1996,2,"Quarterly",24,"Q1 Sep-Nov",3.438
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1996,2,"Quarterly",25,"Q2 Dec-Feb",2.35
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1996,2,"Quarterly",26,"Q3 Mar-May",3.719
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1996,2,"Quarterly",27,"Q4 Jun-Aug",3.754
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1996,3,"Annual",31,"MY Sep-Aug",13.261
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1997,2,"Quarterly",24,"Q1 Sep-Nov",2.205
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1997,2,"Quarterly",25,"Q2 Dec-Feb",0.986
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1997,2,"Quarterly",26,"Q3 Mar-May",3.607
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1997,2,"Quarterly",27,"Q4 Jun-Aug",2.012
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1997,3,"Annual",31,"MY Sep-Aug",8.81
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1998,2,"Quarterly",24,"Q1 Sep-Nov",4.025
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1998,2,"Quarterly",25,"Q2 Dec-Feb",5.716
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1998,2,"Quarterly",26,"Q3 Mar-May",7.235
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1998,2,"Quarterly",27,"Q4 Jun-Aug",1.83
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1998,3,"Annual",31,"MY Sep-Aug",18.806
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1999,2,"Quarterly",24,"Q1 Sep-Nov",3.547
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1999,2,"Quarterly",25,"Q2 Dec-Feb",3.403
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1999,2,"Quarterly",26,"Q3 Mar-May",5.515
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1999,2,"Quarterly",27,"Q4 Jun-Aug",2.279
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",1999,3,"Annual",31,"MY Sep-Aug",14.744
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2000,2,"Quarterly",24,"Q1 Sep-Nov",1.292
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2000,2,"Quarterly",25,"Q2 Dec-Feb",0.911
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2000,2,"Quarterly",26,"Q3 Mar-May",3.123
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2000,2,"Quarterly",27,"Q4 Jun-Aug",1.498
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2000,3,"Annual",31,"MY Sep-Aug",6.824
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2001,2,"Quarterly",24,"Q1 Sep-Nov",2.449
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2001,2,"Quarterly",25,"Q2 Dec-Feb",1.684
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2001,2,"Quarterly",26,"Q3 Mar-May",4.152
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2001,2,"Quarterly",27,"Q4 Jun-Aug",1.855
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2001,3,"Annual",31,"MY Sep-Aug",10.14
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2002,2,"Quarterly",24,"Q1 Sep-Nov",3.429
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2002,2,"Quarterly",25,"Q2 Dec-Feb",4.06
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2002,2,"Quarterly",26,"Q3 Mar-May",5.152
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2002,2,"Quarterly",27,"Q4 Jun-Aug",1.805
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2002,3,"Annual",31,"MY Sep-Aug",14.446
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2003,2,"Quarterly",24,"Q1 Sep-Nov",2.461
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2003,2,"Quarterly",25,"Q2 Dec-Feb",3.523
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2003,2,"Quarterly",26,"Q3 Mar-May",5.123
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2003,2,"Quarterly",27,"Q4 Jun-Aug",2.969
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2003,3,"Annual",31,"MY Sep-Aug",14.076
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2004,2,"Quarterly",24,"Q1 Sep-Nov",1.635
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2004,2,"Quarterly",25,"Q2 Dec-Feb",1.704
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2004,2,"Quarterly",26,"Q3 Mar-May",4.006
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2004,2,"Quarterly",27,"Q4 Jun-Aug",3.485
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2004,3,"Annual",31,"MY Sep-Aug",10.83
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2005,2,"Quarterly",24,"Q1 Sep-Nov",2.114
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2005,2,"Quarterly",25,"Q2 Dec-Feb",1.235
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2005,2,"Quarterly",26,"Q3 Mar-May",4.137
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2005,2,"Quarterly",27,"Q4 Jun-Aug",1.32
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2005,3,"Annual",31,"MY Sep-Aug",8.806
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2006,2,"Quarterly",24,"Q1 Sep-Nov",1.153
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2006,2,"Quarterly",25,"Q2 Dec-Feb",1.684
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2006,2,"Quarterly",26,"Q3 Mar-May",5.476
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2006,2,"Quarterly",27,"Q4 Jun-Aug",3.67
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2006,3,"Annual",31,"MY Sep-Aug",11.983
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2007,2,"Quarterly",24,"Q1 Sep-Nov",2.184
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2007,2,"Quarterly",25,"Q2 Dec-Feb",2.818
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2007,2,"Quarterly",26,"Q3 Mar-May",9.712
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2007,2,"Quarterly",27,"Q4 Jun-Aug",5.307
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2007,3,"Annual",31,"MY Sep-Aug",20.021
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2008,2,"Quarterly",24,"Q1 Sep-Nov",2.815
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2008,2,"Quarterly",25,"Q2 Dec-Feb",4.108
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2008,2,"Quarterly",26,"Q3 Mar-May",5.121
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2008,2,"Quarterly",27,"Q4 Jun-Aug",1.486
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2008,3,"Annual",31,"MY Sep-Aug",13.53
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2009,2,"Quarterly",24,"Q1 Sep-Nov",0.98
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2009,2,"Quarterly",25,"Q2 Dec-Feb",1.319
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2009,2,"Quarterly",26,"Q3 Mar-May",3.132
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2009,2,"Quarterly",27,"Q4 Jun-Aug",2.912
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2009,3,"Annual",31,"MY Sep-Aug",8.343
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2010,2,"Quarterly",24,"Q1 Sep-Nov",5.321
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1953,3,"Annual",69,"Commodity Market Year",28.4
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1954,3,"Annual",69,"Commodity Market Year",28.4
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1955,3,"Annual",69,"Commodity Market Year",27.8
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1956,3,"Annual",69,"Commodity Market Year",29.3
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1957,3,"Annual",69,"Commodity Market Year",29.8
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1958,3,"Annual",69,"Commodity Market Year",32.3
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1959,3,"Annual",69,"Commodity Market Year",28.3
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1960,3,"Annual",69,"Commodity Market Year",31
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1961,3,"Annual",69,"Commodity Market Year",30.6
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1962,3,"Annual",69,"Commodity Market Year",35
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1963,3,"Annual",69,"Commodity Market Year",35
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1964,3,"Annual",69,"Commodity Market Year",37.6
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1965,3,"Annual",69,"Commodity Market Year",42.9
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1966,3,"Annual",69,"Commodity Market Year",38.3
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1967,3,"Annual",69,"Commodity Market Year",40.5
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1968,3,"Annual",69,"Commodity Market Year",43.8
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1969,3,"Annual",69,"Commodity Market Year",44.7
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1970,3,"Annual",69,"Commodity Market Year",42.8
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1971,3,"Annual",69,"Commodity Market Year",45.8
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1972,3,"Annual",69,"Commodity Market Year",43.7
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1973,3,"Annual",69,"Commodity Market Year",40.5
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1974,3,"Annual",69,"Commodity Market Year",37.7
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1975,3,"Annual",69,"Commodity Market Year",44
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1976,3,"Annual",69,"Commodity Market Year",45.4
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1977,3,"Annual",69,"Commodity Market Year",44
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1978,3,"Annual",69,"Commodity Market Year",49.2
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1979,3,"Annual",69,"Commodity Market Year",50.9
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1980,3,"Annual",69,"Commodity Market Year",49.7
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1981,3,"Annual",69,"Commodity Market Year",52.4
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1982,3,"Annual",69,"Commodity Market Year",57.2
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1983,3,"Annual",69,"Commodity Market Year",52.3
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1984,3,"Annual",69,"Commodity Market Year",53.3
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1985,3,"Annual",69,"Commodity Market Year",50.9
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1986,3,"Annual",69,"Commodity Market Year",50.8
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1987,3,"Annual",69,"Commodity Market Year",52.4
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1988,3,"Annual",69,"Commodity Market Year",38
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1989,3,"Annual",69,"Commodity Market Year",48.6
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1990,3,"Annual",69,"Commodity Market Year",56.1
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1991,3,"Annual",69,"Commodity Market Year",55.2
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1992,3,"Annual",69,"Commodity Market Year",62.5
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1993,3,"Annual",69,"Commodity Market Year",58.9
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1994,3,"Annual",69,"Commodity Market Year",56.2
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1995,3,"Annual",69,"Commodity Market Year",57.2
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1996,3,"Annual",69,"Commodity Market Year",58.5
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1997,3,"Annual",69,"Commodity Market Year",58.1
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1998,3,"Annual",69,"Commodity Market Year",60.1
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",1999,3,"Annual",69,"Commodity Market Year",59.5
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",2000,3,"Annual",69,"Commodity Market Year",61.1
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",2001,3,"Annual",69,"Commodity Market Year",58.1
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",2002,3,"Annual",69,"Commodity Market Year",55
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",2003,3,"Annual",69,"Commodity Market Year",58.9
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",2004,3,"Annual",69,"Commodity Market Year",69.6
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",2005,3,"Annual",69,"Commodity Market Year",64.8
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",2006,3,"Annual",69,"Commodity Market Year",61.1
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",2007,3,"Annual",69,"Commodity Market Year",60
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",2008,3,"Annual",69,"Commodity Market Year",63.3
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",2009,3,"Annual",69,"Commodity Market Year",72.8
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",2010,3,"Annual",69,"Commodity Market Year",73.1
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",2011,3,"Annual",69,"Commodity Market Year",69.1
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",2012,3,"Annual",69,"Commodity Market Year",66.9
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",2013,3,"Annual",69,"Commodity Market Year",71.2977
+2,"Supply and use",9,"Barley",1,0.800,"United States",1,"Barley",3,"Yield per harvested acre",6,"Bushels per acre",2014,3,"Annual",69,"Commodity Market Year",72.3676
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1875,3,"Annual",69,"Commodity Market Year",0.856
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1876,3,"Annual",69,"Commodity Market Year",0.685
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1877,3,"Annual",69,"Commodity Market Year",0.633
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1878,3,"Annual",69,"Commodity Market Year",0.584
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1879,3,"Annual",69,"Commodity Market Year",0.599
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1880,3,"Annual",69,"Commodity Market Year",0.663
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1881,3,"Annual",69,"Commodity Market Year",0.819
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1882,3,"Annual",69,"Commodity Market Year",0.631
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1883,3,"Annual",69,"Commodity Market Year",0.589
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1884,3,"Annual",69,"Commodity Market Year",0.483
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1885,3,"Annual",69,"Commodity Market Year",0.557
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1886,3,"Annual",69,"Commodity Market Year",0.531
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1887,3,"Annual",69,"Commodity Market Year",0.52
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1888,3,"Annual",69,"Commodity Market Year",0.591
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1889,3,"Annual",69,"Commodity Market Year",0.415
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1890,3,"Annual",69,"Commodity Market Year",0.621
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1891,3,"Annual",69,"Commodity Market Year",0.522
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1892,3,"Annual",69,"Commodity Market Year",0.466
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1893,3,"Annual",69,"Commodity Market Year",0.402
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1894,3,"Annual",69,"Commodity Market Year",0.437
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1895,3,"Annual",69,"Commodity Market Year",0.328
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1896,3,"Annual",69,"Commodity Market Year",0.296
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1897,3,"Annual",69,"Commodity Market Year",0.343
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1898,3,"Annual",69,"Commodity Market Year",0.389
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1899,3,"Annual",69,"Commodity Market Year",0.388
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1900,3,"Annual",69,"Commodity Market Year",0.407
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2010,2,"Quarterly",25,"Q2 Dec-Feb",8.464
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2010,2,"Quarterly",26,"Q3 Mar-May",10.384
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2010,2,"Quarterly",27,"Q4 Jun-Aug",3.5
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2010,3,"Annual",31,"MY Sep-Aug",27.669
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2011,2,"Quarterly",24,"Q1 Sep-Nov",4.055
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2011,2,"Quarterly",25,"Q2 Dec-Feb",3.934
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2011,2,"Quarterly",26,"Q3 Mar-May",10.674
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2011,2,"Quarterly",27,"Q4 Jun-Aug",10.71
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2011,3,"Annual",31,"MY Sep-Aug",29.373
+2,"Supply and use",12,"Corn",1,0.800,"United States",2,"Corn",13,"Imports, market year",1,"Million bushels",2012,2,"Quarterly",24,"Q1 Sep-Nov",34.785
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1977,2,"Quarterly",23,"Q4 Mar-May",473.3
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1978,3,"Annual",19,"MY Jun-May",313.104
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1978,2,"Quarterly",20,"Q1 Jun-Aug",313.104
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1978,2,"Quarterly",21,"Q2 Sep-Nov",706
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1978,2,"Quarterly",22,"Q3 Dec-Feb",578.1
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1978,2,"Quarterly",23,"Q4 Mar-May",440
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1979,3,"Annual",19,"MY Jun-May",279.97
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1979,2,"Quarterly",20,"Q1 Jun-Aug",279.97
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1979,2,"Quarterly",21,"Q2 Sep-Nov",627.2
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1979,2,"Quarterly",22,"Q3 Dec-Feb",505.3
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1979,2,"Quarterly",23,"Q4 Mar-May",387.7
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1980,3,"Annual",19,"MY Jun-May",236.408
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1980,2,"Quarterly",20,"Q1 Jun-Aug",236.408
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1980,2,"Quarterly",21,"Q2 Sep-Nov",538.1
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1980,2,"Quarterly",22,"Q3 Dec-Feb",421.8
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1980,2,"Quarterly",23,"Q4 Mar-May",305.6
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1981,3,"Annual",19,"MY Jun-May",176.954
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1981,2,"Quarterly",20,"Q1 Jun-Aug",176.954
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1981,2,"Quarterly",21,"Q2 Sep-Nov",515.6
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1981,2,"Quarterly",22,"Q3 Dec-Feb",395.1
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1981,2,"Quarterly",23,"Q4 Mar-May",282.9
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1982,3,"Annual",19,"MY Jun-May",151.932
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1982,2,"Quarterly",20,"Q1 Jun-Aug",151.932
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1982,2,"Quarterly",21,"Q2 Sep-Nov",605.8
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1982,2,"Quarterly",22,"Q3 Dec-Feb",486.8
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1982,2,"Quarterly",23,"Q4 Mar-May",367.6
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1983,3,"Annual",19,"MY Jun-May",219.828
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1983,2,"Quarterly",20,"Q1 Jun-Aug",219.828
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1983,2,"Quarterly",21,"Q2 Sep-Nov",551.5
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1983,2,"Quarterly",22,"Q3 Dec-Feb",416.9
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1983,2,"Quarterly",23,"Q4 Mar-May",303.5
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1984,3,"Annual",19,"MY Jun-May",180.944
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1984,2,"Quarterly",20,"Q1 Jun-Aug",180.944
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1984,2,"Quarterly",21,"Q2 Sep-Nov",517.7
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1984,2,"Quarterly",22,"Q3 Dec-Feb",397
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1984,2,"Quarterly",23,"Q4 Mar-May",296.3
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1985,3,"Annual",19,"MY Jun-May",179.878
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1985,2,"Quarterly",20,"Q1 Jun-Aug",179.878
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1985,2,"Quarterly",21,"Q2 Sep-Nov",554.1
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1985,2,"Quarterly",22,"Q3 Dec-Feb",424.8
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1985,2,"Quarterly",23,"Q4 Mar-May",312.4
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1986,3,"Annual",19,"MY Jun-May",183.715
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1986,2,"Quarterly",20,"Q1 Jun-Aug",183.715
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1986,2,"Quarterly",21,"Q2 Sep-Nov",451.5
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1986,2,"Quarterly",22,"Q3 Dec-Feb",342.2
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1986,2,"Quarterly",23,"Q4 Mar-May",248.5
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1987,3,"Annual",19,"MY Jun-May",132.746
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1987,2,"Quarterly",20,"Q1 Jun-Aug",132.746
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1987,2,"Quarterly",21,"Q2 Sep-Nov",393.8
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1987,2,"Quarterly",22,"Q3 Dec-Feb",294.1
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1987,2,"Quarterly",23,"Q4 Mar-May",212.2
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1988,3,"Annual",19,"MY Jun-May",112.029
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1988,2,"Quarterly",20,"Q1 Jun-Aug",112.029
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1988,2,"Quarterly",21,"Q2 Sep-Nov",263.6
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1988,2,"Quarterly",22,"Q3 Dec-Feb",204.2
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1988,2,"Quarterly",23,"Q4 Mar-May",159.7
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1989,3,"Annual",19,"MY Jun-May",98.334
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1989,2,"Quarterly",20,"Q1 Jun-Aug",98.334
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1989,2,"Quarterly",21,"Q2 Sep-Nov",373.3
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1989,2,"Quarterly",22,"Q3 Dec-Feb",287.3
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1989,2,"Quarterly",23,"Q4 Mar-May",214.749
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1990,3,"Annual",19,"MY Jun-May",156.912
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1990,2,"Quarterly",20,"Q1 Jun-Aug",156.912
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1990,2,"Quarterly",21,"Q2 Sep-Nov",351.709
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1990,2,"Quarterly",22,"Q3 Dec-Feb",294.098
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1990,2,"Quarterly",23,"Q4 Mar-May",229.259
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1991,3,"Annual",19,"MY Jun-May",171.231
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1991,2,"Quarterly",20,"Q1 Jun-Aug",171.231
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1991,2,"Quarterly",21,"Q2 Sep-Nov",284.087
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1991,2,"Quarterly",22,"Q3 Dec-Feb",244.608
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1991,2,"Quarterly",23,"Q4 Mar-May",174.885
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1992,3,"Annual",19,"MY Jun-May",127.721
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1992,2,"Quarterly",20,"Q1 Jun-Aug",127.721
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1992,2,"Quarterly",21,"Q2 Sep-Nov",294.617
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1992,2,"Quarterly",22,"Q3 Dec-Feb",242.492
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1992,2,"Quarterly",23,"Q4 Mar-May",175.125
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1993,3,"Annual",19,"MY Jun-May",113.193
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",9,"Beginning stocks",1,"Million bushels",1993,2,"Quarterly",20,"Q1 Jun-Aug",113.193
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1901,3,"Annual",69,"Commodity Market Year",0.454
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1902,3,"Annual",69,"Commodity Market Year",0.453
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1903,3,"Annual",69,"Commodity Market Year",0.447
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1904,3,"Annual",69,"Commodity Market Year",0.412
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1905,3,"Annual",69,"Commodity Market Year",0.394
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1906,3,"Annual",69,"Commodity Market Year",0.418
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1907,3,"Annual",69,"Commodity Market Year",0.665
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1908,1,"Monthly",7,"Jul",0.58
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1908,1,"Monthly",8,"Aug",0.57
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1908,1,"Monthly",9,"Sep",0.56
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1908,1,"Monthly",10,"Oct",0.55
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1908,1,"Monthly",11,"Nov",0.55
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1908,1,"Monthly",12,"Dec",0.56
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1908,3,"Annual",69,"Commodity Market Year",0.566
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1909,1,"Monthly",1,"Jan",0.57
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1909,1,"Monthly",2,"Feb",0.59
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1909,1,"Monthly",3,"Mar",0.6
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1909,1,"Monthly",4,"Apr",0.62
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1909,1,"Monthly",5,"May",0.65
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1909,1,"Monthly",6,"Jun",0.67
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1909,1,"Monthly",7,"Jul",0.64
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1909,1,"Monthly",8,"Aug",0.58
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1909,1,"Monthly",9,"Sep",0.54
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1909,1,"Monthly",10,"Oct",0.53
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1909,1,"Monthly",11,"Nov",0.54
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1909,1,"Monthly",12,"Dec",0.56
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1909,3,"Annual",69,"Commodity Market Year",0.568
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1910,1,"Monthly",1,"Jan",0.58
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1910,1,"Monthly",2,"Feb",0.6
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1910,1,"Monthly",3,"Mar",0.6
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1910,1,"Monthly",4,"Apr",0.58
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1910,1,"Monthly",5,"May",0.56
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1910,1,"Monthly",6,"Jun",0.55
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1910,1,"Monthly",7,"Jul",0.54
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1910,1,"Monthly",8,"Aug",0.56
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1910,1,"Monthly",9,"Sep",0.57
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1910,1,"Monthly",10,"Oct",0.56
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1910,1,"Monthly",11,"Nov",0.57
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1910,3,"Annual",69,"Commodity Market Year",0.601
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1911,1,"Monthly",1,"Jan",0.62
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1911,1,"Monthly",2,"Feb",0.64
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1911,1,"Monthly",3,"Mar",0.66
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1911,1,"Monthly",4,"Apr",0.72
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1911,1,"Monthly",5,"May",0.74
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1911,1,"Monthly",6,"Jun",0.72
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1911,1,"Monthly",7,"Jul",0.7
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1911,1,"Monthly",8,"Aug",0.73
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1911,1,"Monthly",9,"Sep",0.79
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1911,1,"Monthly",10,"Oct",0.83
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1911,1,"Monthly",11,"Nov",0.86
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1911,1,"Monthly",12,"Dec",0.87
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1911,3,"Annual",69,"Commodity Market Year",0.814
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1912,1,"Monthly",1,"Jan",0.89
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1912,1,"Monthly",2,"Feb",0.91
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1912,1,"Monthly",3,"Mar",0.92
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1912,1,"Monthly",4,"Apr",0.94
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1912,1,"Monthly",5,"May",0.94
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1912,1,"Monthly",6,"Jun",0.86
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1912,1,"Monthly",7,"Jul",0.74
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1912,1,"Monthly",8,"Aug",0.6
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1912,1,"Monthly",9,"Sep",0.54
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1912,1,"Monthly",10,"Oct",0.54
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1912,1,"Monthly",11,"Nov",0.52
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1912,1,"Monthly",12,"Dec",0.5
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1912,3,"Annual",69,"Commodity Market Year",0.51
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1913,1,"Monthly",1,"Jan",0.51
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1913,1,"Monthly",2,"Feb",0.5
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1913,1,"Monthly",3,"Mar",0.49
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1913,1,"Monthly",4,"Apr",0.48
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1913,1,"Monthly",5,"May",0.5
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1913,1,"Monthly",6,"Jun",0.53
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1913,1,"Monthly",7,"Jul",0.52
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1913,1,"Monthly",8,"Aug",0.53
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1913,1,"Monthly",9,"Sep",0.56
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1913,1,"Monthly",10,"Oct",0.56
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1913,1,"Monthly",11,"Nov",0.54
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1913,1,"Monthly",12,"Dec",0.53
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1913,3,"Annual",69,"Commodity Market Year",0.526
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1914,1,"Monthly",1,"Jan",0.52
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1914,1,"Monthly",2,"Feb",0.52
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1914,1,"Monthly",3,"Mar",0.51
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1914,1,"Monthly",4,"Apr",0.5
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1914,1,"Monthly",5,"May",0.49
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1914,1,"Monthly",6,"Jun",0.48
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1914,1,"Monthly",7,"Jul",0.46
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1914,1,"Monthly",8,"Aug",0.49
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1914,1,"Monthly",9,"Sep",0.52
+1,"Prices",9,"Barley",1,0.800,"United States",1,"Barley",5,"Prices received by farmers",4,"Dollars per bushel",1914,1,"Monthly",10,"Oct",0.52
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",15,"Ending stocks",1,"Million bushels",1975,3,"Annual",19,"MY Jun-May",204.818
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",15,"Ending stocks",1,"Million bushels",1975,2,"Quarterly",20,"Q1 Jun-Aug",679.252
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",15,"Ending stocks",1,"Million bushels",1975,2,"Quarterly",21,"Q2 Sep-Nov",531.694
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",15,"Ending stocks",1,"Million bushels",1975,2,"Quarterly",22,"Q3 Dec-Feb",379.055
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",15,"Ending stocks",1,"Million bushels",1975,2,"Quarterly",23,"Q4 Mar-May",204.818
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",15,"Ending stocks",1,"Million bushels",1976,3,"Annual",19,"MY Jun-May",164.295
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",15,"Ending stocks",1,"Million bushels",1976,2,"Quarterly",20,"Q1 Jun-Aug",584.7
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",15,"Ending stocks",1,"Million bushels",1976,2,"Quarterly",21,"Q2 Sep-Nov",447.6
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",15,"Ending stocks",1,"Million bushels",1976,2,"Quarterly",22,"Q3 Dec-Feb",312.9
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",15,"Ending stocks",1,"Million bushels",1976,2,"Quarterly",23,"Q4 Mar-May",164.295
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",15,"Ending stocks",1,"Million bushels",1977,3,"Annual",19,"MY Jun-May",313.104
+2,"Supply and use",17,"Oats",1,0.800,"United States",3,"Oats",15,"Ending stocks",1,"Million bushels",1977,2,"Quarterly",20,"Q1 Jun-Aug",738.2
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2012,1,"Monthly",9,"Sep",7.26
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2012,1,"Monthly",10,"Oct",7.07
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2012,1,"Monthly",11,"Nov",7.09
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2012,1,"Monthly",12,"Dec",6.91
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2012,3,"Annual",31,"MY Sep-Aug",6.80916666666667
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2013,1,"Monthly",1,"Jan",6.94
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2013,1,"Monthly",2,"Feb",6.95
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2013,1,"Monthly",3,"Mar",7.07
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2013,1,"Monthly",4,"Apr",6.37
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2013,1,"Monthly",5,"May",6.78
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2013,1,"Monthly",6,"Jun",6.91
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2013,1,"Monthly",7,"Jul",6.47
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2013,1,"Monthly",8,"Aug",5.89
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2013,1,"Monthly",9,"Sep",4.86
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2013,1,"Monthly",10,"Oct",4.18
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2013,1,"Monthly",11,"Nov",4.14
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2013,1,"Monthly",12,"Dec",4.12
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2013,3,"Annual",31,"MY Sep-Aug",4.22416666666667
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2014,1,"Monthly",1,"Jan",4.08
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2014,1,"Monthly",2,"Feb",4.26
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2014,1,"Monthly",3,"Mar",4.46
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2014,1,"Monthly",4,"Apr",4.73
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2014,1,"Monthly",5,"May",4.64
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2014,1,"Monthly",6,"Jun",4.28
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2014,1,"Monthly",7,"Jul",3.58
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2014,1,"Monthly",8,"Aug",3.36
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2014,1,"Monthly",9,"Sep",3.1
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2014,1,"Monthly",10,"Oct",3.05
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2014,1,"Monthly",11,"Nov",3.3
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2014,1,"Monthly",12,"Dec",3.59
+1,"Prices",12,"Corn",11,0.300,"U.S. - Minneapolis, MN",15,"Corn, No. 2 yellow",31,"Prices, market",4,"Dollars per bushel",2015,1,"Monthly",1,"Jan",3.57
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1975,1,"Monthly",6,"Jun",3.97
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1975,1,"Monthly",7,"Jul",3.83
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1975,1,"Monthly",8,"Aug",3.65
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1975,1,"Monthly",9,"Sep",3.93
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1975,1,"Monthly",10,"Oct",3.83
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1975,1,"Monthly",11,"Nov",3.56
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1975,1,"Monthly",12,"Dec",3.35
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1975,3,"Annual",19,"MY Jun-May",3.515
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1976,1,"Monthly",1,"Jan",3.24
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1976,1,"Monthly",2,"Feb",3.21
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1976,1,"Monthly",3,"Mar",3.22
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1976,1,"Monthly",4,"Apr",3.17
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1976,1,"Monthly",5,"May",3.22
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1976,1,"Monthly",6,"Jun",3.55
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1976,1,"Monthly",7,"Jul",3.59
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1976,1,"Monthly",8,"Aug",3.37
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1976,1,"Monthly",9,"Sep",3.24
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1976,1,"Monthly",10,"Oct",3.21
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1976,1,"Monthly",11,"Nov",3
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1976,1,"Monthly",12,"Dec",2.95
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1976,3,"Annual",19,"MY Jun-May",3.12833333333333
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1977,1,"Monthly",1,"Jan",3
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1977,1,"Monthly",2,"Feb",2.91
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1977,1,"Monthly",3,"Mar",2.98
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1977,1,"Monthly",4,"Apr",2.91
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1977,1,"Monthly",5,"May",2.83
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1977,1,"Monthly",6,"Jun",2.38
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1977,1,"Monthly",7,"Jul",2.02
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1977,1,"Monthly",8,"Aug",1.92
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1977,1,"Monthly",9,"Sep",2.15
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1977,1,"Monthly",10,"Oct",2.25
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1977,1,"Monthly",11,"Nov",2.36
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1977,1,"Monthly",12,"Dec",2.32
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1977,3,"Annual",19,"MY Jun-May",2.27166666666667
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1978,1,"Monthly",1,"Jan",2.26
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1978,1,"Monthly",2,"Feb",2.33
+1,"Prices",9,"Barley",11,0.300,"U.S. - Minneapolis, MN",18,"Barley, No. 3 malting",31,"Prices, market",4,"Dollars per bushel",1978,1,"Monthly",3,"Mar",2.32
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1991,1,"Monthly",4,"Apr",3.407
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1991,1,"Monthly",5,"May",2.753
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1991,1,"Monthly",8,"Aug",6.593
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1991,1,"Monthly",9,"Sep",0.021
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1991,3,"Annual",31,"MY Sep-Aug",28.077
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1992,1,"Monthly",1,"Jan",6.975
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1992,1,"Monthly",3,"Mar",1.093
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1992,1,"Monthly",4,"Apr",6.553
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1992,1,"Monthly",6,"Jun",5.491
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1992,1,"Monthly",8,"Aug",7.944
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1992,1,"Monthly",11,"Nov",4.009
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1992,3,"Annual",31,"MY Sep-Aug",11.917
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1993,1,"Monthly",3,"Mar",7.908
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1993,3,"Annual",31,"MY Sep-Aug",26.271
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1994,1,"Monthly",1,"Jan",3.362
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1994,1,"Monthly",2,"Feb",1.048
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1994,1,"Monthly",5,"May",10.507
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1994,1,"Monthly",7,"Jul",11.354
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1994,1,"Monthly",11,"Nov",7.477
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1994,1,"Monthly",12,"Dec",0.001
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1994,3,"Annual",31,"MY Sep-Aug",30
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1995,1,"Monthly",5,"May",13.522
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1995,1,"Monthly",8,"Aug",9
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1995,1,"Monthly",12,"Dec",0.124
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1995,3,"Annual",31,"MY Sep-Aug",6.372
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1996,1,"Monthly",1,"Jan",0.062
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1996,1,"Monthly",2,"Feb",6.062
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1996,1,"Monthly",3,"Mar",0.062
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1996,1,"Monthly",4,"Apr",0.062
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1996,1,"Monthly",9,"Sep",11.397
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1996,1,"Monthly",10,"Oct",5.012
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1996,1,"Monthly",12,"Dec",5.364
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1996,3,"Annual",31,"MY Sep-Aug",43.873
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1997,1,"Monthly",1,"Jan",6
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1997,1,"Monthly",3,"Mar",6.1
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1997,1,"Monthly",7,"Jul",10
+3,"Exports and imports",10,"Byproduct feeds",42,57.700,"      European Union-25",76,"Brewers' and distillers' dregs & waste",19,"Imports, to U.S. from specified source",7,"1,000 metric tons",1997,1,"Monthly",11,"Nov",6.2
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2002,1,"Monthly",4,"Apr",12.761891
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2002,1,"Monthly",5,"May",0.003237
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2002,1,"Monthly",6,"Jun",21.58038
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2002,1,"Monthly",7,"Jul",29.703
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2002,1,"Monthly",9,"Sep",0.021237
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2002,1,"Monthly",10,"Oct",0.055462
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2002,1,"Monthly",11,"Nov",0.166262
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2002,1,"Monthly",12,"Dec",15.492369
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2002,3,"Annual",31,"MY Sep-Aug",30.530525
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2003,1,"Monthly",1,"Jan",0.122049
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2003,1,"Monthly",2,"Feb",0.0396
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2003,1,"Monthly",3,"Mar",0.343109
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2003,1,"Monthly",4,"Apr",14.185255
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2003,1,"Monthly",5,"May",0.02121
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2003,1,"Monthly",6,"Jun",0.020342
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2003,1,"Monthly",7,"Jul",0.02121
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2003,1,"Monthly",8,"Aug",0.04242
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2003,1,"Monthly",10,"Oct",24.802042
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2003,1,"Monthly",11,"Nov",41.311897
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2003,1,"Monthly",12,"Dec",0.060567
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2003,3,"Annual",31,"MY Sep-Aug",93.321942
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2004,1,"Monthly",1,"Jan",0.174
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2004,1,"Monthly",2,"Feb",26.361627
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2004,1,"Monthly",3,"Mar",0.140808
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2004,1,"Monthly",4,"Apr",0.053818
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2004,1,"Monthly",5,"May",0.409219
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2004,1,"Monthly",6,"Jun",0.007964
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2004,1,"Monthly",9,"Sep",0.4423
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2004,1,"Monthly",11,"Nov",0.07585
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2004,1,"Monthly",12,"Dec",0.067607
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2004,3,"Annual",31,"MY Sep-Aug",0.952051
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2005,1,"Monthly",1,"Jan",0.23535
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2005,1,"Monthly",2,"Feb",0.081481
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2005,1,"Monthly",3,"Mar",0.02826
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2005,1,"Monthly",4,"Apr",0.021203
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2005,1,"Monthly",10,"Oct",0.12105
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2005,1,"Monthly",11,"Nov",0.0784
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2005,3,"Annual",31,"MY Sep-Aug",0.257116
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2006,1,"Monthly",1,"Jan",0.014621
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2006,1,"Monthly",2,"Feb",0.006554
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2006,1,"Monthly",3,"Mar",0.01036
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2006,1,"Monthly",4,"Apr",0.021591
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2006,1,"Monthly",5,"May",0.00454
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2006,1,"Monthly",12,"Dec",0.154347
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2006,3,"Annual",31,"MY Sep-Aug",0.554647
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2007,1,"Monthly",2,"Feb",0.009438
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2007,1,"Monthly",3,"Mar",0.378842
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2007,1,"Monthly",4,"Apr",0.01202
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2007,1,"Monthly",10,"Oct",0.779962
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2007,1,"Monthly",11,"Nov",0.0792
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2007,1,"Monthly",12,"Dec",0.013672
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2007,3,"Annual",31,"MY Sep-Aug",58.257895
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2008,1,"Monthly",1,"Jan",0.035114
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2008,1,"Monthly",2,"Feb",0.076675
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2008,1,"Monthly",3,"Mar",57.254922
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2008,1,"Monthly",4,"Apr",0.01835
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2008,3,"Annual",31,"MY Sep-Aug",0.636734
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2009,1,"Monthly",1,"Jan",0.583244
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2009,1,"Monthly",2,"Feb",0.002586
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2009,1,"Monthly",3,"Mar",0.015024
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2009,1,"Monthly",4,"Apr",0.01702
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2009,1,"Monthly",5,"May",0.01886
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2009,1,"Monthly",9,"Sep",0.01
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2009,3,"Annual",31,"MY Sep-Aug",0.033482
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2010,1,"Monthly",2,"Feb",0.008572
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2010,1,"Monthly",3,"Mar",0.01442
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2010,1,"Monthly",4,"Apr",0.00027
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2010,1,"Monthly",6,"Jun",0.00022
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2010,1,"Monthly",12,"Dec",0.0198
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2010,3,"Annual",31,"MY Sep-Aug",0.043641
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2011,1,"Monthly",2,"Feb",0.020614
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2011,1,"Monthly",3,"Mar",0.001927
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2011,1,"Monthly",4,"Apr",0.0013
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2011,1,"Monthly",12,"Dec",0.265815
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2011,3,"Annual",31,"MY Sep-Aug",1.08438
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2012,1,"Monthly",1,"Jan",0.44174
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2012,1,"Monthly",2,"Feb",0.374014
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2012,1,"Monthly",3,"Mar",0.002811
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2012,3,"Annual",31,"MY Sep-Aug",0.603086
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2013,1,"Monthly",1,"Jan",0.577526
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2013,1,"Monthly",2,"Feb",0.02556
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2013,3,"Annual",31,"MY Sep-Aug",0.047336
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2014,1,"Monthly",2,"Feb",0.040968
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2014,1,"Monthly",3,"Mar",0.0024
+3,"Exports and imports",12,"Corn",43,88.500,"        Acceding-10",11,"Corn grain",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2014,1,"Monthly",4,"Apr",0.003968
+3,"Exports and imports",17,"Oats",44,99.500,"      Other Europe",79,"Oats products",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1989,1,"Monthly",4,"Apr",0.0955386082622961
+3,"Exports and imports",17,"Oats",44,99.500,"      Other Europe",79,"Oats products",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1989,1,"Monthly",6,"Jun",0.0893842604641248
+3,"Exports and imports",17,"Oats",44,99.500,"      Other Europe",79,"Oats products",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1989,1,"Monthly",7,"Jul",0.138865216761422
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1994,1,"Monthly",10,"Oct",1945.64242399016
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1994,1,"Monthly",11,"Nov",2674.35617620926
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1994,1,"Monthly",12,"Dec",2839.70413506563
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1994,3,"Annual",31,"MY Sep-Aug",34474.8072480166
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1995,1,"Monthly",1,"Jan",3008.88324599275
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1995,1,"Monthly",2,"Feb",3304.65696005456
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1995,1,"Monthly",3,"Mar",3207.50984462313
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1995,1,"Monthly",4,"Apr",2864.613428796
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1995,1,"Monthly",5,"May",3279.88300996488
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1995,1,"Monthly",6,"Jun",3091.64112659741
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1995,1,"Monthly",7,"Jul",3369.46958895095
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1995,1,"Monthly",8,"Aug",3186.79365713289
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1995,1,"Monthly",9,"Sep",4130.25550799894
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1995,1,"Monthly",10,"Oct",3789.31246306177
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1995,1,"Monthly",11,"Nov",3083.77980576089
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1995,1,"Monthly",12,"Dec",2614.47710852625
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1995,3,"Annual",31,"MY Sep-Aug",34463.5295609386
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1996,1,"Monthly",1,"Jan",3110.7484175983
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1996,1,"Monthly",2,"Feb",2283.77200457156
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1996,1,"Monthly",3,"Mar",3454.38015604866
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1996,1,"Monthly",4,"Apr",2776.74608476777
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1996,1,"Monthly",5,"May",2952.49236755435
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1996,1,"Monthly",6,"Jun",2099.40506892371
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1996,1,"Monthly",7,"Jul",2234.88972071333
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1996,1,"Monthly",8,"Aug",1933.27085541312
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1996,1,"Monthly",9,"Sep",1490.69056504848
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1996,1,"Monthly",10,"Oct",2105.06590361562
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1996,1,"Monthly",11,"Nov",3555.52359313775
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1996,1,"Monthly",12,"Dec",3016.92852368559
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1996,3,"Annual",31,"MY Sep-Aug",27179.0631624842
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1997,1,"Monthly",1,"Jan",2779.5982821266
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1997,1,"Monthly",2,"Feb",2190.3635108972
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1997,1,"Monthly",3,"Mar",2624.6779444279
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1997,1,"Monthly",4,"Apr",2479.89977135865
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1997,1,"Monthly",5,"May",1884.4974218501
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1997,1,"Monthly",6,"Jun",1369.40962273493
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1997,1,"Monthly",7,"Jul",1279.76178315364
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1997,1,"Monthly",8,"Aug",2402.64624044768
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1997,1,"Monthly",9,"Sep",2287.37398152859
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1997,1,"Monthly",10,"Oct",1891.56856852053
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1997,1,"Monthly",11,"Nov",1548.45341789469
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1997,1,"Monthly",12,"Dec",2191.73489681675
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1997,3,"Annual",31,"MY Sep-Aug",22484.8375266417
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1998,1,"Monthly",1,"Jan",1701.57060815549
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1998,1,"Monthly",2,"Feb",1751.12454832409
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1998,1,"Monthly",3,"Mar",2052.2059750921
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1998,1,"Monthly",4,"Apr",1547.98272317036
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1998,1,"Monthly",5,"May",1897.42848074126
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1998,1,"Monthly",6,"Jun",1895.78047188815
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1998,1,"Monthly",7,"Jul",1805.79804815451
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1998,1,"Monthly",8,"Aug",1913.81580635515
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1998,1,"Monthly",9,"Sep",1475.33865546031
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1998,1,"Monthly",10,"Oct",2237.22396302119
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1998,1,"Monthly",11,"Nov",2305.03115338897
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1998,1,"Monthly",12,"Dec",2438.42958635748
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1998,3,"Annual",31,"MY Sep-Aug",26854.7232357532
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1999,1,"Monthly",1,"Jan",2067.98140777037
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1999,1,"Monthly",2,"Feb",2073.66802536709
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1999,1,"Monthly",3,"Mar",2147.6713901416
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1999,1,"Monthly",4,"Apr",2381.04648161581
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1999,1,"Monthly",5,"May",1799.08872876415
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1999,1,"Monthly",6,"Jun",2720.67704513926
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1999,1,"Monthly",7,"Jul",2731.95530911649
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1999,1,"Monthly",8,"Aug",2476.61148961045
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1999,1,"Monthly",9,"Sep",2435.14188432227
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1999,1,"Monthly",10,"Oct",2256.3279553889
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1999,1,"Monthly",11,"Nov",2076.19047866326
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1999,1,"Monthly",12,"Dec",1742.70477819064
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",1999,3,"Annual",31,"MY Sep-Aug",23929.0513038091
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2000,1,"Monthly",1,"Jan",2245.70190737789
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2000,1,"Monthly",2,"Feb",1699.89622755681
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2000,1,"Monthly",3,"Mar",2180.8057010214
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2000,1,"Monthly",4,"Apr",1862.76427211196
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2000,1,"Monthly",5,"May",1747.16708712845
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2000,1,"Monthly",6,"Jun",1875.62824910411
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2000,1,"Monthly",7,"Jul",1773.41276631106
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2000,1,"Monthly",8,"Aug",2033.30999663235
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2000,1,"Monthly",9,"Sep",2191.27573050365
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2000,1,"Monthly",10,"Oct",1660.15617596897
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2000,1,"Monthly",11,"Nov",1579.84756624067
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2000,1,"Monthly",12,"Dec",1943.96768589155
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2000,3,"Annual",31,"MY Sep-Aug",23403.6316280161
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2001,1,"Monthly",1,"Jan",1912.00087601325
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2001,1,"Monthly",2,"Feb",1738.08785128237
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2001,1,"Monthly",3,"Mar",2194.8598985347
+3,"Exports and imports",12,"Corn",46,157.500,"      Asia",2,"Corn",24,"Exports, from U.S. to specified destination",7,"1,000 metric tons",2001,1,"Monthly",4,"Apr",2076.05317780944
