@@ -5,10 +5,16 @@ import pprint
 import matplotlib.pyplot as plt
 import sympy.plotting as tplt
 
-data=open('FeedGrains.csv', 'r')
+def makeFAOSTATdf(data='short'):
+    if data=='short':
+        data=open('FeedGrains.csv', 'r')
+    elif data=='long':
+        data=open('FAOSTAT_Full.csv', 'r')
+    else: 
+        raise Exception("Unknown data form. Please specify your data file with the data key in the function call")
+    return pandas.DataFrame.from_csv(data)
 
-df=pandas.DataFrame.from_csv(data)
-
+df = makeFAOSTATdf()
 cropYear={}
 for index, row in df.iterrows():
     if row['SC_GroupCommod_Desc'] == 'Corn':
@@ -17,7 +23,7 @@ for index, row in df.iterrows():
         else:
             cropYear[row['Year_ID']] = row['Amount']
             
-pprint.pprint(zip(cropYear.keys(),cropYear.values()))
+#pprint.pprint(zip(cropYear.keys(),cropYear.values()))
 plt.plot(cropYear.keys(),cropYear.values(), linewidth=4.0)
 plt.ylabel('Year', fontsize=17)
 plt.xlabel('Busshels Produced', fontsize=17)
