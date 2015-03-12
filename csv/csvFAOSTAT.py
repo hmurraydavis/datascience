@@ -11,6 +11,8 @@ def parseOutCountryData(country="United States of America", fileout = "USData.cs
         for line in FullData: 
             if country in line: 
                 usadata.write(line)
+            if 'Country' in line:
+                usadata.write(line)
         
 
 def makeFAOSTATdf(region='short'):
@@ -22,11 +24,17 @@ def makeFAOSTATdf(region='short'):
     elif region=='world':
         data=open('full_FAOSTAT.csv', 'r')
     elif region=='americas':
-        data=open('Production_Crops_E_Americas_1.csv', 'r')
+        data=open('USData.csv', 'r')
     else: 
         raise Exception("Unknown data form. Please specify your data file with the data key in the function call")
     return pandas.DataFrame.from_csv(data)
 
+def buildYearList(start = 1961, end = 2013):
+    yearList = {}
+    for year in range(start,end):
+        yearStr='Y'+str(year)
+        yearList[year]=yearStr
+    return yearList
 
 def sumYieldYears(crop='Corn'):
     cropYear={}
@@ -41,8 +49,12 @@ def sumYieldYears(crop='Corn'):
                 cropYear[row[yearDenotation]] = row[amountDenotation]
     return cropYear
 
+
+parseOutCountryData()
 ##cropsWeCareAbout = ['Corn', 'Cotton lint', 'Soybeans', 'Wheat']
-##df = makeFAOSTATdf(region='world')
+df = makeFAOSTATdf(region='americas')
+yearList = buildYearList()
+pprint.pprint(yearList)
 ##cropYear = sumYieldYears()
 
 #pprint.pprint(zip(cropYear.keys(),cropYear.values()))
