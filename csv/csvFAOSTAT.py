@@ -23,7 +23,7 @@ def makeFAOSTATdf(region='short'):
         data=open('FAOSTAT_Full.csv', 'r')
     elif region=='world':
         data=open('full_FAOSTAT.csv', 'r')
-    elif region=='americas':
+    elif region=='us':
         data=open('USData.csv', 'r')
     else: 
         raise Exception("Unknown data form. Please specify your data file with the data key in the function call")
@@ -33,29 +33,36 @@ def buildYearList(start = 1961, end = 2013):
     yearList = {}
     for year in range(start,end):
         yearStr='Y'+str(year)
-        yearList[year]=yearStr
+        yearList[yearStr]= year
     return yearList
 
-def sumYieldYears(crop='Corn'):
-    cropYear={}
+def sumYieldYears(yearList, crop='Corn'):
     cropDenotation='Item'
-    yearDenotation = 'Year'
-    amountDenotation = 'Value'
+    cropYear={}
     for index, row in df.iterrows():
-        if row[cropDenotation] == crop:
-            if row[yearDenotation] in cropYear.keys():
-                cropYear[row[yearDenotation]]=cropYear[row[yearDenotation]]+ row[amountDenotation]
-            else:
-                cropYear[row[yearDenotation]] = row[amountDenotation]
-    return cropYear
+        if (row[cropDenotation] == crop) and (row['Element']=='Production'):
+            for year in yearList:
+                cropYear[yearList[year]] = row[year]
+    pprint.pprint(cropYear)
+        
+#    cropDenotation='Item'
+#    yearDenotation = 'Year'
+#    amountDenotation = 'Value'
+#    for index, row in df.iterrows():
+#        if row[cropDenotation] == crop:
+#            if row[yearDenotation] in cropYear.keys():
+#                cropYear[row[yearDenotation]]=cropYear[row[yearDenotation]]+ row[amountDenotation]
+#            else:
+#                cropYear[row[yearDenotation]] = row[amountDenotation]
+#    return cropYear
 
 
-parseOutCountryData()
+#parseOutCountryData()
 ##cropsWeCareAbout = ['Corn', 'Cotton lint', 'Soybeans', 'Wheat']
-df = makeFAOSTATdf(region='americas')
+df = makeFAOSTATdf(region='us')
 yearList = buildYearList()
-pprint.pprint(yearList)
-##cropYear = sumYieldYears()
+#pprint.pprint(yearList)
+cropYear = sumYieldYears(yearList, crop='Spinach')
 
 #pprint.pprint(zip(cropYear.keys(),cropYear.values()))
 ##plt.plot(cropYear.keys(),cropYear.values(), linewidth=4.0)
