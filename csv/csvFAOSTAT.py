@@ -6,19 +6,11 @@ import matplotlib.pyplot as plt
 import sympy.plotting as tplt
 
 def parseOutCountryData(country="United States of America", fileout = "USData.csv", filein = 'Production_Crops_E_Americas_1.csv'):
-#United States of America
     FullData = open(filein, 'r')
     with open(fileout, "a") as usadata:
         for line in FullData: 
             if country in line: 
                 usadata.write(line)
-            
-            
-#fullDF = pandas.DataFrame.from_csv(FullData)
-#with open("USData.csv", "a") as usadata:
-#    for index, row in fullDF.iterrows():
-#        if row['Country'] == 'United States of America':
-#            usadata.write(row)
         
 
 def makeFAOSTATdf(region='short'):
