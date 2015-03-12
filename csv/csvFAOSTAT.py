@@ -45,23 +45,12 @@ def sumYieldYears(yearList, crop='Corn'):
                 cropYear[yearList[year]] = row[year]
     pprint.pprint(cropYear)
         
-#    cropDenotation='Item'
-#    yearDenotation = 'Year'
-#    amountDenotation = 'Value'
-#    for index, row in df.iterrows():
-#        if row[cropDenotation] == crop:
-#            if row[yearDenotation] in cropYear.keys():
-#                cropYear[row[yearDenotation]]=cropYear[row[yearDenotation]]+ row[amountDenotation]
-#            else:
-#                cropYear[row[yearDenotation]] = row[amountDenotation]
-#    return cropYear
 
 
 #parseOutCountryData()
 ##cropsWeCareAbout = ['Corn', 'Cotton lint', 'Soybeans', 'Wheat']
 df = makeFAOSTATdf(region='us')
 yearList = buildYearList()
-#pprint.pprint(yearList)
 cropYear = sumYieldYears(yearList, crop='Spinach')
 
 #pprint.pprint(zip(cropYear.keys(),cropYear.values()))
