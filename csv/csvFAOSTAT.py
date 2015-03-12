@@ -29,12 +29,14 @@ def makeFAOSTATdf(region='short'):
         raise Exception("Unknown data form. Please specify your data file with the data key in the function call")
     return pandas.DataFrame.from_csv(data)
 
+
 def buildYearList(start = 1961, end = 2013):
     yearList = {}
     for year in range(start,end):
         yearStr='Y'+str(year)
         yearList[yearStr]= year
     return yearList
+
 
 def sumYieldYears(yearList, crop='Corn'):
     cropDenotation='Item'
@@ -43,21 +45,21 @@ def sumYieldYears(yearList, crop='Corn'):
         if (row[cropDenotation] == crop) and (row['Element']=='Production'):
             for year in yearList:
                 cropYear[yearList[year]] = row[year]
-    pprint.pprint(cropYear)
-        
+    return cropYear
 
+
+def cropScatterplotByYear(cropYear, crop):
+    plt.plot(cropYear.keys(),cropYear.values(), 'r*', linewidth=4.0)
+    plt.xlabel('Year', fontsize=17)
+    plt.ylabel('Tonnes Produced', fontsize=17)
+    plt.title(crop+' Production Over Time', fontsize=22)
+    plt.show()
 
 #parseOutCountryData()
 ##cropsWeCareAbout = ['Corn', 'Cotton lint', 'Soybeans', 'Wheat']
 df = makeFAOSTATdf(region='us')
 yearList = buildYearList()
 cropYear = sumYieldYears(yearList, crop='Spinach')
+cropScatterplotByYear(cropYear, 'Spinach')
 
-#pprint.pprint(zip(cropYear.keys(),cropYear.values()))
-##plt.plot(cropYear.keys(),cropYear.values(), linewidth=4.0)
-##plt.ylabel('Year', fontsize=17)
-##plt.xlabel('Busshels Produced', fontsize=17)
-##plt.title('Corn Production Over Time', fontsize=22)
-##plt.show()
-#np.histogram(cropYear.keys(),cropYear.values())
-#pprint.pprint(cropYear)
+
