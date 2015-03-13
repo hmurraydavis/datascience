@@ -58,6 +58,7 @@ def cropScatterplotByYear(cropYear, crop):
 
 
 def makeHistogramByCrop(yearList, cropYear, crop):
+    #TODO: Fix error yielded
     bins=[]
     crops=[]
     years=[]
@@ -74,6 +75,7 @@ def makeHistogramByCrop(yearList, cropYear, crop):
     P.show()
     
 def cropScatterplotByYearLinFit(cropYear, crop):
+    #TODO: Fix error yielded
     x=cropYear.keys(); y=cropYear.values()
     plt.plot(x,y, 'r*', linewidth=4.0)
     m,b = np.polyfit(x, y, 1) 
@@ -106,6 +108,10 @@ def histTest():
     P.show()
     
     
+def getSumaryStatistics(cropYear, crop):
+    var = np.var(cropYear.values()); print crop, ' production variance is: ',var, ' tonnes'
+    
+    
 #parseOutCountryData()
 df = makeFAOSTATdf(region='us')
 #runScatterForCropsWeCareAbout()
@@ -117,5 +123,7 @@ yearList = buildYearList()
 cropYear = sumYieldYears(yearList, crop='Spinach')
 #makeHistogramByCrop(yearList, cropYear, 'Spinach')
 #cropScatterplotByYearLinFit(cropYear,  'Spinach')
+getSumaryStatistics(cropYear, crop='Spinach')
+
 
 
