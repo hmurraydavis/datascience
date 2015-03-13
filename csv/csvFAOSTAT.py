@@ -56,10 +56,14 @@ def cropScatterplotByYear(cropYear, crop):
     plt.show()
 
 #parseOutCountryData()
-##cropsWeCareAbout = ['Corn', 'Cotton lint', 'Soybeans', 'Wheat']
 df = makeFAOSTATdf(region='us')
+cropsWeCareAbout = ['Corn', 'Cotton lint', 'Soybeans', 'Wheat']
 yearList = buildYearList()
-cropYear = sumYieldYears(yearList, crop='Spinach')
-cropScatterplotByYear(cropYear, 'Spinach')
+for crop in cropsWeCareAbout:
+    cropYear = sumYieldYears(yearList, crop=crop)
+    cropScatterplotByYear(cropYear, crop)
+
+##cropYear = sumYieldYears(yearList, crop='Spinach')
+##cropScatterplotByYear(cropYear, 'Spinach')
 
 
