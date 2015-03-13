@@ -23,24 +23,33 @@ def readJoin(bookname='fertilizeruse.xls'):
 	dfs = readDict(bookname)
 	keys = dfs.keys()
 
-	dfj = dfs['Table1']
-
+	mergedTo = dfs['Table1']
+	
 	while len(keys) > 0:
 		key = keys.pop()
-		if key in 'Table4 Table7':
+		if key in 'Table2 Table3 Table4 Table5 Table8 Table9 Table6':
 			df = dfs[key]
-			dfj = df.join(dfj, on='year', rsuffix='_r')
-			#if key == 'Table7':
-			#	print dfj.ure_dol
+			if key == 'Table8':
+				#print df.all_pri
+				pass
 
-	#print dfj.ure_dol
+			#df.dropna(subset=['year'], inplace=True)
+			df.index = df.year
+			mergeInto = mergedTo
+			#mergeInto.dropna(subset=['year'], inplace=True)
+			mergeInto.index = mergeInto.year
+			mergedTo = df.join(mergeInto, rsuffix='_r', how='outer')
+
+
+	for i in mergedTo.index:
+		print mergedTo.loc[i, 'year']
 
 	# drop extra columns from join
 	#for val in dfj.columns.values:
 	#	if '_r' in val:
 	#		dfj.drop(val, axis=1, inplace=True)
 
-	return dfj
+	return mergedTo
 
 
 ''' master function - builds dict w/ key = sheetname, val = df '''
