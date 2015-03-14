@@ -24,7 +24,7 @@ def parseOutCountryData(country="United States of America", fileout = "USData.cs
         
 
 def makeFAOSTATdf(region='short'):
-    '''Make a pandas dataframe from the data in a given CSV file'''
+    '''Make a pandas dataframe from the data in a given region (CSV file)'''
     if region=='short':
         data=open('FeedGrains.csv', 'r')
     elif region=='middle':
@@ -39,6 +39,8 @@ def makeFAOSTATdf(region='short'):
 
 
 def buildYearList(start = 1961, end = 2013):
+    '''Constructs & returns a dictionary with Y[year] as the key and the year as the value for working with the 
+    FAOSTAT dataframe.'''
     yearList = {}
     for year in range(start,end):
         yearStr='Y'+str(year)
@@ -47,6 +49,7 @@ def buildYearList(start = 1961, end = 2013):
 
 
 def sumYieldYears(yearList, crop='Corn'):
+    '''Returns a dictionary of production data for a given crop for a given set of years.'''
     cropDenotation='Item'
     cropYear={}
     for index, row in df.iterrows():
@@ -56,7 +59,22 @@ def sumYieldYears(yearList, crop='Corn'):
     return cropYear
 
 
+def getProductionCertainYear(yearList, year=2013, crop='Asparagus'):
+    '''Returns a dictionary of production data for a given crop for a given  year.'''
+    cropDenotation='Item'
+    cropYear={}
+    production = {}
+    for index, row in df.iterrows():
+        if row['Element'] == 'Production':
+            if row['Item'] in production:
+                production[row['Item']] = production[row['Item']] + row['Y'+str(year)]
+            else: production[row['Item']] = row['Y'+str(year)]
+#            pprint.pprint(production)
+    return production
+            
+
 def cropScatterplotByYear(cropYear, crop):
+    '''Makes a cscatterplot for a given dataset'''
     plt.plot(cropYear.keys(),cropYear.values(), 'r*', linewidth=4.0)
     plt.xlabel('Year', fontsize=17)
     plt.ylabel('Tonnes Produced', fontsize=17)
@@ -92,6 +110,8 @@ def cropScatterplotByYearLinFit(cropYear, crop):
     plt.title(crop+' Production Over Time', fontsize=22)
     plt.show()
     
+
+    
     
 def runScatterForCropsWeCareAbout():
     cropsWeCareAbout = ['Corn', 'Cotton lint', 'Soybeans', 'Wheat']
@@ -105,6 +125,7 @@ def runScatterForCropsWeCareAbout():
 
 
 def histTest():
+    '''test of histogram functionality from the interwebs!'''
     mu, sigma = 200, 25
     x = mu + sigma*P.randn(10000)
     bins = [100,125,150,160,170,180,190,200,210,220,230,240,250,275,300]
@@ -143,16 +164,17 @@ df = makeFAOSTATdf(region='us')
 ##cropScatterplotByYear(cropYear, 'Spinach')
 
 yearList = buildYearList()        
-cropYear = sumYieldYears(yearList, crop='Soybeans')
+#cropYear = sumYieldYears(yearList, crop='Soybeans')
 #makeHistogramByCrop(yearList, cropYear, 'Spinach')
 #cropScatterplotByYearLinFit(cropYear,  'Spinach')
-getSumaryStatistics(cropYear, crop='Soybeans')
-makePMF(cropYear)
+#getSumaryStatistics(cropYear, crop='Soybeans')
+#makePMF(cropYear)
+getProductionCertainYear(yearList)
 
 
 #TODO: 
-PMF
-PDF
-CDF
-Histogram
+##PMF
+##PDF
+##CDF
+##Histogram
 
