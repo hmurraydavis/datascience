@@ -71,6 +71,23 @@ def getProductionCertainYear(yearList, year=2013, crop='Asparagus'):
             else: production[row['Item']] = row['Y'+str(year)]
 #            pprint.pprint(production)
     return production
+    
+def derivativesOverTime(yearList, crop='Asparagus'):
+    cropDenotation = 'Item'
+    last=0;
+    derivs = []
+    for index, row in df.iterrows():
+        if (row[cropDenotation] == crop) and (row['Element']=='Production'):
+            for year in yearList.keys():
+                if last > 0:
+                    derivs.append(row[year]-last)
+                else: last=row[year]
+#    plt.plot(derivs, linewidth=4.0)
+#    plt.xlabel('Years Since ' + str(min(yearList.values())), fontsize=17)
+#    plt.ylabel('Derivative of Tonnes Produced', fontsize=17)
+#    plt.title(crop+' Production Deratives Over Time', fontsize=22)
+#    plt.show()
+    return derivs
             
 
 def cropScatterplotByYear(cropYear, crop):
@@ -170,7 +187,18 @@ yearList = buildYearList()
 #getSumaryStatistics(cropYear, crop='Soybeans')
 #makePMF(cropYear)
 getProductionCertainYear(yearList)
-
+soyderiv = derivativesOverTime(yearList, crop='Soybeans')
+applederiv = derivativesOverTime(yearList, crop='Apples')
+barleyderiv = derivativesOverTime(yearList, crop='Barley')
+appricorderiv = derivativesOverTime(yearList, crop='Apricots')
+#plt.plot(soyderiv, 'g')
+a2 = [x * 15 for x in applederiv] 
+a3 = [x * 600 for x in barleyderiv] 
+a4 = a2 = [x * 35 for x in appricorderiv]
+plt.plot(a2 , 'r', linewidth = 14)
+#plt.plot(barleyderiv, 'b')
+plt.plot(a4,'c', linewidth=6)
+plt.show()
 
 #TODO: 
 ##PMF
