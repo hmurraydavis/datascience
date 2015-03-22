@@ -100,17 +100,13 @@ def cropScatterplotByYear(cropYear, crop):
 
 
 def makeHistogramByCrop(yearList, cropYear, crop):
-    #TODO: Fix error yielded
+    '''Plot a histogram like thing which shows the yield as bars in a bar chart.'''
     bins=[]
     crops=[]
     years=[]	
     for year in yearList:
         years.append(yearList[year])
         crops.append(cropYear[yearList[year]])
-###    for year in yearList.values():
-###        if (year%5) == 0:
-###            bins.append(year)
-    #pprint.pprint(zip(years,crops))
     zippy = sorted(zip(years, crops), key=lambda p: p[0])
     years = np.array([y for (y, x) in zippy])
     crops = np.array([x for (y, x) in zippy])
@@ -120,6 +116,9 @@ def makeHistogramByCrop(yearList, cropYear, crop):
     ax.bar(range(len(years)), crops)
     ax.set_xticks(np.arange(len(years)))
     ax.set_xticklabels(years, rotation=90)
+    plt.xlabel('Year', fontsize=17)
+    plt.ylabel('Tonnes Produced', fontsize=17)
+    plt.title(crop+' Production Over Time', fontsize=22)
     plt.show()
     '''
     print(years)
