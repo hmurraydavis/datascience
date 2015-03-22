@@ -103,18 +103,32 @@ def makeHistogramByCrop(yearList, cropYear, crop):
     #TODO: Fix error yielded
     bins=[]
     crops=[]
-    years=[]
+    years=[]	
     for year in yearList:
         years.append(yearList[year])
         crops.append(cropYear[yearList[year]])
 ###    for year in yearList.values():
 ###        if (year%5) == 0:
 ###            bins.append(year)
-    pprint.pprint(zip(years,crops))
-    years=np.array(years)
-    crops=np.array(crops)
-    n, bins, patches = P.hist(years, crops, normed=1, histtype='bar', rwidth=0.8)
-    P.show()
+    #pprint.pprint(zip(years,crops))
+    zippy = sorted(zip(years, crops), key=lambda p: p[0])
+    years = np.array([y for (y, x) in zippy])
+    crops = np.array([x for (y, x) in zippy])
+    
+    fig = plt.figure()
+    ax = plt.subplot(111)
+    ax.bar(range(len(years)), crops)
+    ax.set_xticks(np.arange(len(years)))
+    ax.set_xticklabels(years, rotation=90)
+    plt.show()
+    '''
+    print(years)
+    print(crops)
+    #n, bins, patches = plt.hist(crops, bins=years, normed=1, histtype='bar', rwidth=0.8)
+    #n, bins, patches = plt.hist(crops, bins=100, normed=1, histtype='bar', rwidth=0.8)
+    plt.plot(years, crops)
+    plt.show()'''
+    
     
 def cropScatterplotByYearLinFit(cropYear, crop):
     #TODO: Fix error yielded
@@ -176,29 +190,43 @@ def getSumaryStatistics(cropYear, crop):
 #parseOutCountryData()
 df = makeFAOSTATdf(region='us')
 #runScatterForCropsWeCareAbout()
+yearList = buildYearList()
 
-##cropYear = sumYieldYears(yearList, crop='Spinach')
-##cropScatterplotByYear(cropYear, 'Spinach')
-
-yearList = buildYearList()        
-#cropYear = sumYieldYears(yearList, crop='Soybeans')
-#makeHistogramByCrop(yearList, cropYear, 'Spinach')
+#cropYear = sumYieldYears(yearList, crop='Barley')
+#cropScatterplotByYear(cropYear, 'Barley')
+ 
+cropYear = sumYieldYears(yearList, crop='Soybeans')
+makeHistogramByCrop(yearList, cropYear, 'Spinach')
 #cropScatterplotByYearLinFit(cropYear,  'Spinach')
 #getSumaryStatistics(cropYear, crop='Soybeans')
 #makePMF(cropYear)
-getProductionCertainYear(yearList)
-soyderiv = derivativesOverTime(yearList, crop='Soybeans')
-applederiv = derivativesOverTime(yearList, crop='Apples')
-barleyderiv = derivativesOverTime(yearList, crop='Barley')
-appricorderiv = derivativesOverTime(yearList, crop='Apricots')
-#plt.plot(soyderiv, 'g')
-a2 = [x * 15 for x in applederiv] 
-a3 = [x * 600 for x in barleyderiv] 
-a4 = a2 = [x * 35 for x in appricorderiv]
-plt.plot(a2 , 'r', linewidth = 14)
-#plt.plot(barleyderiv, 'b')
-plt.plot(a4,'c', linewidth=6)
-plt.show()
+#getProductionCertainYear(yearList)
+
+def plotManyCropDerivsOverTime(yearList, crops):
+    derivs = {}
+    for crop in crops:
+        deriv = derivativesOverTime(yearList, crop[0])
+        deriv = [x * crop[1] for x in deriv] 
+        label = crop[0]+ ' derivitative, scale = '+str(crop[1])
+        plt.plot(deriv, linewidth=4, label = label)
+        derivs[crop[0]] = deriv
+    plt.xlabel('Years since 1961', fontsize=17)
+    plt.ylabel('Derivative of Tonnes Produced', fontsize=17)
+    plt.title('Crop Production Over Time', fontsize=22)
+    plt.legend()
+    plt.show()
+    return derivs
+        
+        
+#plotManyCropDerivsOverTime(yearList, [('Soybeans', .5), ('Apples', 15), ('Apricots', 600)])    
+#makePMF(cropYear)
+
+
+#    plt.plot(derivs, linewidth=4.0)
+#    plt.xlabel('Years Since ' + str(min(yearList.values())), fontsize=17)
+#    plt.ylabel('Derivative of Tonnes Produced', fontsize=17)
+#    plt.title(crop+' Production Deratives Over Time', fontsize=22)
+#    plt.show()
 
 #TODO: 
 ##PMF
