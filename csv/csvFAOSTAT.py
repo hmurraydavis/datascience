@@ -135,6 +135,18 @@ def makeHistogramProductionAmt(cropYear, crop):
     plt.ylabel('Number of Years Produced from ' + str(min(cropYear.keys())) + ' to ' + str(max(cropYear.keys())), fontsize=17)
     plt.title(crop+' Production Frequency', fontsize=22)
     plt.show()
+    
+
+def makeCDFCropProductionValues(cropYear, crop):
+    hist, bin_edges = np.histogram(cropYear.values(), bins=30, density=False)
+    CDF = np.cumsum(hist)
+    CDF = np.insert(CDF, 0, 0)
+    xlab = bin_edges
+    plt.plot(xlab, CDF, linewidth=4.0)
+    plt.xlabel('Tonnes Produced', fontsize=17)
+    plt.ylabel('Cumulative Production Values by Year From ' + str(min(cropYear.keys())) + ' to ' + str(max(cropYear.keys())), fontsize=17)
+    plt.title(crop+' Production CDF', fontsize=22)
+    plt.show()
 
 
 def cropScatterplotByYearLinFit(cropYear, crop):
@@ -205,7 +217,9 @@ yearList = buildYearList()
 cropYear = sumYieldYears(yearList, crop='Soybeans')
 #makeHistogramByCrop(yearList, cropYear, 'Spinach')
 
-makeHistogramProductionAmt(cropYear, 'Spinach')
+#makeHistogramProductionAmt(cropYear, 'Spinach')
+
+makeCDFCropProductionValues(cropYear, 'Spinach')
 #cropScatterplotByYearLinFit(cropYear,  'Spinach')
 #getSumaryStatistics(cropYear, crop='Soybeans')
 #makePMF(cropYear)
