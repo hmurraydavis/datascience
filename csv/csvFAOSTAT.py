@@ -150,6 +150,9 @@ def makeCDFCropProductionValues(cropYear, crop):
     
     
 def makePDFCropProductionValues(cropYear, crop):
+    '''Generate a PDF of the crop's production values. 
+    
+    WARNING: This is likely very wrong. Doesn't have y max of 1 because of non-unity bins. What's a good way to get unity bins? TODO!'''
     hist, bin_edges = np.histogram(cropYear.values(), bins=70000000, density=True)
     CDF = np.cumsum(hist)
     CDF = np.insert(CDF, 0, 0)
@@ -159,12 +162,6 @@ def makePDFCropProductionValues(cropYear, crop):
     plt.ylabel('Probability Distrabution Function by Year From ' + str(min(cropYear.keys())) + ' to ' + str(max(cropYear.keys())), fontsize=17)
     plt.title(crop+' Production PDF', fontsize=22)
     plt.show()
-###    X = cropYear.values()
-###    counts, bins = np.histogram(X,bins=50, density=True)
-###    bins = bins[:-1] + (bins[1] - bins[0])/2
-###    x=np.trapz(counts)
-###    plt.plot(counts,bins)
-###    plt.show()
 
 
 def cropScatterplotByYearLinFit(cropYear, crop):
