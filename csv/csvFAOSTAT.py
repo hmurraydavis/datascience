@@ -102,7 +102,7 @@ def cropScatterplotByYear(cropYear, crop):
 def makeHistogramByCrop(yearList, cropYear, crop):
     '''Plot a histogram like thing which shows the yield as bars in a bar chart.'''
     bins=[]
-    crops=[]
+    crops=[] 
     years=[]	
     for year in yearList:
         years.append(yearList[year])
