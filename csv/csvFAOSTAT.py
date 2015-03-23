@@ -147,6 +147,24 @@ def makeCDFCropProductionValues(cropYear, crop):
     plt.ylabel('Cumulative Production Values by Year From ' + str(min(cropYear.keys())) + ' to ' + str(max(cropYear.keys())), fontsize=17)
     plt.title(crop+' Production CDF', fontsize=22)
     plt.show()
+    
+    
+def makePDFCropProductionValues(cropYear, crop):
+    hist, bin_edges = np.histogram(cropYear.values(), bins=70000000, density=True)
+    CDF = np.cumsum(hist)
+    CDF = np.insert(CDF, 0, 0)
+    xlab = bin_edges
+    plt.plot(xlab, CDF, linewidth=4.0)
+    plt.xlabel('Tonnes Produced', fontsize=17)
+    plt.ylabel('Probability Distrabution Function by Year From ' + str(min(cropYear.keys())) + ' to ' + str(max(cropYear.keys())), fontsize=17)
+    plt.title(crop+' Production PDF', fontsize=22)
+    plt.show()
+###    X = cropYear.values()
+###    counts, bins = np.histogram(X,bins=50, density=True)
+###    bins = bins[:-1] + (bins[1] - bins[0])/2
+###    x=np.trapz(counts)
+###    plt.plot(counts,bins)
+###    plt.show()
 
 
 def cropScatterplotByYearLinFit(cropYear, crop):
@@ -207,7 +225,8 @@ cropYear = sumYieldYears(yearList, crop='Soybeans')
 
 #makeHistogramProductionAmt(cropYear, 'Spinach')
 
-makeCDFCropProductionValues(cropYear, 'Spinach')
+#makeCDFCropProductionValues(cropYear, 'Spinach')
+makePDFCropProductionValues(cropYear, 'Spinach')
 #cropScatterplotByYearLinFit(cropYear,  'Spinach')
 #getSumaryStatistics(cropYear, crop='Soybeans')
 #makePMF(cropYear)
