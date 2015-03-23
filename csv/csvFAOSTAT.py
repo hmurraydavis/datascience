@@ -130,6 +130,7 @@ def makeHistogramByCrop(yearList, cropYear, crop):
     
 
 def makeHistogramProductionAmt(cropYear, crop):
+    '''Spoofs a "histogram" of the production values for a given crop. Really a bar chart of the values at each year.'''
     n, bins, patches = plt.hist(cropYear.values(), bins=20)
     plt.xlabel('Tonnes Produced', fontsize=17)
     plt.ylabel('Number of Years Produced from ' + str(min(cropYear.keys())) + ' to ' + str(max(cropYear.keys())), fontsize=17)
