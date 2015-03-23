@@ -138,6 +138,8 @@ def makeHistogramProductionAmt(cropYear, crop):
     
 
 def makeCDFCropProductionValues(cropYear, crop):
+    '''Make a CDF of the crop's production values! This tells you how frequently a given production value
+    occured within the given time frame'''
     hist, bin_edges = np.histogram(cropYear.values(), bins=30, density=False)
     CDF = np.cumsum(hist)
     CDF = np.insert(CDF, 0, 0)
