@@ -128,7 +128,15 @@ def makeHistogramByCrop(yearList, cropYear, crop):
     plt.plot(years, crops)
     plt.show()'''
     
-    
+
+def makeHistogramProductionAmt(cropYear, crop):
+    n, bins, patches = plt.hist(cropYear.values(), bins=20)
+    plt.xlabel('Tonnes Produced', fontsize=17)
+    plt.ylabel('Number of Years Produced from ' + str(min(cropYear.keys())) + ' to ' + str(max(cropYear.keys())), fontsize=17)
+    plt.title(crop+' Production Frequency', fontsize=22)
+    plt.show()
+
+
 def cropScatterplotByYearLinFit(cropYear, crop):
     #TODO: Fix error yielded
     x=cropYear.keys(); y=cropYear.values()
@@ -195,7 +203,9 @@ yearList = buildYearList()
 #cropScatterplotByYear(cropYear, 'Barley')
  
 cropYear = sumYieldYears(yearList, crop='Soybeans')
-makeHistogramByCrop(yearList, cropYear, 'Spinach')
+#makeHistogramByCrop(yearList, cropYear, 'Spinach')
+
+makeHistogramProductionAmt(cropYear, 'Spinach')
 #cropScatterplotByYearLinFit(cropYear,  'Spinach')
 #getSumaryStatistics(cropYear, crop='Soybeans')
 #makePMF(cropYear)
@@ -231,5 +241,4 @@ def plotManyCropDerivsOverTime(yearList, crops):
 ##PMF
 ##PDF
 ##CDF
-##Histogram
 
