@@ -193,11 +193,23 @@ def runScatterForCropsWeCareAbout():
     
     
 def makePMF(cropYear):
-    from scipy.stats import binom
-    import matplotlib.pyplot as plt2
-    fig, ax = plt2.subplots(1, 1)
-    n=cropYear.keys(); p=cropYear.values()
-    scipy.stats.rv_discrete.pmf(n)
+#    import random
+    x = cropYear.values() 
+#    print x
+#    x = [random.random() for r in xrange(10)]
+    num_bins = 3
+    counts, bins = np.histogram(x, bins=num_bins)
+    bins = bins[:-1] + (bins[1] - bins[0])/2
+    probs = counts/float(counts.sum())
+    print probs.sum() # 1.0
+    print type(bins)
+    plt.bar(bins, probs,)
+    plt.show()
+##    from scipy.stats import binom
+##    import matplotlib.pyplot as plt2
+##    fig, ax = plt2.subplots(1, 1)
+##    n=cropYear.keys(); p=cropYear.values()
+##    scipy.stats.rv_discrete.pmf(n)
     #x = np.arange(binom.ppf(0.01, n, p), binom.ppf(0.99, n, p))
 ###    x=n; y=p;
 ###    ax.plot(x, binom.pmf(x, n, p), 'bo', ms=8, label='binom pmf')
@@ -226,10 +238,10 @@ cropYear = sumYieldYears(yearList, crop='Soybeans')
 #makeHistogramProductionAmt(cropYear, 'Spinach')
 
 #makeCDFCropProductionValues(cropYear, 'Spinach')
-makePDFCropProductionValues(cropYear, 'Spinach')
+#makePDFCropProductionValues(cropYear, 'Spinach')
 #cropScatterplotByYearLinFit(cropYear,  'Spinach')
 #getSumaryStatistics(cropYear, crop='Soybeans')
-#makePMF(cropYear)
+makePMF(cropYear)
 #getProductionCertainYear(yearList)
 
 def plotManyCropDerivsOverTime(yearList, crops):
