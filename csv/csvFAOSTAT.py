@@ -8,11 +8,12 @@ import pylab as P
 import scipy.stats as stats
 
 def parseOutCountryData(country="United States of America", fileout = "USData.csv", filein = 'Production_Crops_E_Americas_1.csv'):
-    '''Parse out data for a specific country into a seprate file so the program doesn't have to craw throguh all 
-    the data. 
+    '''Parse out data for a specific country into a seprate file so the program
+    doesn't have to craw throguh all the data. 
     
-    NOTE: opens file in append mode, so if you call this repetelt, you'll have the data for the country in question
-    many times in the same file (unless you change the file name. This probably isn't what you want. To avoid this,
+    NOTE: opens file in append mode, so if you call this repetelt, you'll have
+    the data for the country in question many times in the same file (unless you
+     change the file name. This probably isn't what you want. To avoid this,
     rm the file before running this function again.'''
     FullData = open(filein, 'r')
     with open(fileout, "a") as usadata:
@@ -169,9 +170,13 @@ def makePDFCropProductionValues(cropYear, crop):
 
 def cropScatterplotByYearLinFit(cropYear, crop):
     #TODO: Fix error yielded
-    x=cropYear.keys(); y=cropYear.values()
+    x=np.array(cropYear.keys()); y=np.array(cropYear.values())
+    print 'x= ',len(x), ' y= ', len(y)
     plt.plot(x,y, 'r*', linewidth=4.0)
     m,b = np.polyfit(x, y, 1) 
+    print 'm= ', m, ' b= ', b
+    print [type(i) for i in (m, b, x)]
+    print len(m*x+b)
     plt.plot(x, m*x+b, 'k',linewidth=3.0) 
     plt.xlabel('Year', fontsize=17)
     plt.ylabel('Tonnes Produced', fontsize=17)
@@ -205,21 +210,8 @@ def makePMF(cropYear):
     print type(bins)
     plt.bar(bins, probs,)
     plt.show()
-##    from scipy.stats import binom
-##    import matplotlib.pyplot as plt2
-##    fig, ax = plt2.subplots(1, 1)
-##    n=cropYear.keys(); p=cropYear.values()
-##    scipy.stats.rv_discrete.pmf(n)
-    #x = np.arange(binom.ppf(0.01, n, p), binom.ppf(0.99, n, p))
-###    x=n; y=p;
-###    ax.plot(x, binom.pmf(x, n, p), 'bo', ms=8, label='binom pmf')
-###    ax.vlines(x, 0, binom.pmf(x, n, p), colors='b', lw=5, alpha=0.5)
-###    plt2.show()
-#    rv = binom(n, p)
-#    ax.vlines(x, 0, rv.pmf(x), colors='k', linestyles='-', lw=1, label='frozen pmf')
-#    ax.legend(loc='best', frameon=False)
-#    plt2.show()
-    
+
+
 def getSumaryStatistics(cropYear, crop):
     var = np.var(cropYear.values()); print crop, ' production variance is: ',var, ' tonnes'
     std = np.std(cropYear.values()); print crop, ' production standard deviation is: ',std, ' tonnes'
@@ -239,9 +231,9 @@ cropYear = sumYieldYears(yearList, crop='Soybeans')
 
 #makeCDFCropProductionValues(cropYear, 'Spinach')
 #makePDFCropProductionValues(cropYear, 'Spinach')
-#cropScatterplotByYearLinFit(cropYear,  'Spinach')
+cropScatterplotByYearLinFit(cropYear,  'Spinach')
 #getSumaryStatistics(cropYear, crop='Soybeans')
-makePMF(cropYear)
+#makePMF(cropYear)
 #getProductionCertainYear(yearList)
 
 def plotManyCropDerivsOverTime(yearList, crops):
@@ -271,5 +263,5 @@ def plotManyCropDerivsOverTime(yearList, crops):
 #    plt.show()
 
 #TODO: 
-##PMF
+##PMF-sortof works, too narrow bars
 ##PDF
